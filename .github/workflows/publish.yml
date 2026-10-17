@@ -15,13 +15,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: abstractwebunit/markdown-publish@v1
+      # Same as abstractwebunit/markdown-publish@v1, but run step by step so the
+      # generator's source can be patched first: that action has no custom CSS
+      # or canvas options. See .github/markdown-publish/patch.mjs.
+      - uses: actions/setup-node@v4
         with:
-          vault-dir: vault
-          base-href: "/${{ github.event.repository.name }}/"
-          site-url: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
-          site-lang: en
-          custom-css: "custom.css"
+          node-version: 22
+      - name: Install markdown-publish
+        run: npm install --prefix "$RUNNER_TEMP/mp" --no-audit --no-fund @abstractwebunit/markdown-publish@1.0.6
+      - name: Patch canvas rendering and add custom.css
+        run: node .github/markdown-publish/patch.mjs "$RUNNER_TEMP/mp/node_modules/@abstractwebunit/markdown-publish" custom.css
+      - name: Build site
+        run: >-
+          node "$RUNNER_TEMP/mp/node_modules/@abstractwebunit/markdown-publish/tools/cli/cli.mjs" build
+          --vault-dir vault
+          --out dist
+          --site-name ""
+          --site-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+          --site-lang en
+          --site-description ""
+          --site-footer ""
+          --build-mode full
+          --base-href "/${{ github.event.repository.name }}/"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
   deploy:
     needs: build
     runs-on: ubuntu-latest

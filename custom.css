@@ -1,21 +1,12 @@
-/* 1. Force the web rendering engine to use straight/90-degree path connections */
-svg.canvas-edges path {
-    stroke-linejoin: round !important;
-    stroke-linecap: round !important;
-    d: path(replace(d, /C[^Z]+/g, "")) !important; /* Strips bezier curves */
+/* Appended to the site's global stylesheet at build time
+   (see .github/markdown-publish/patch.mjs). */
+
+/* Canvas text cards: drop the outer paragraph margins, as Obsidian does, so
+   short cards fit their saved size. */
+app-markdown-node .content > :first-child {
+  margin-top: 0;
 }
 
-/* 2. Fix squished text cards and force embedded notes to expand naturally */
-.canvas-node-content {
-    height: auto !important;
-    max-height: none !important;
-    overflow: visible !important;
-}
-
-.canvas-node-content iframe, 
-.canvas-node-content .markdown-embed,
-.canvas-node-content .markdown-preview-view {
-    height: auto !important;
-    min-height: 350px !important; /* Guarantees a clean, visible starting frame height */
-    overflow: visible !important;
+app-markdown-node .content > :last-child {
+  margin-bottom: 0;
 }
