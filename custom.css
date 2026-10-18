@@ -48,3 +48,10 @@ app-markdown-node .content img {
 ng-draw-flow.canvas {
   background-image: none !important;
 }
+
+/* No resize grips on cards: cards are sized in Obsidian, not on the site.
+   Hides the corner icon and the invisible edge grips, which also turns off
+   resizing. (!important: the grips' own component styles outrank this.) */
+ng-draw-flow.canvas .df-resize {
+  display: none !important;
+}
