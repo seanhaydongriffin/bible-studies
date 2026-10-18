@@ -12,103 +12,33 @@
 		},
 		{"id":"7e14b626b3c027e9","type":"link","url":"https://youtu.be/JIMAqxGPR8Q?si=_jeTki5CxuuHT8Yb","x":-840,"y":-10,"width":400,"height":120},
 		{
-			"id":"2e0bdf9e1d9db225",
-			"type":"text",
-			"text":"John 14:30",
-			"styleAttributes":{},
-			"x":1095,
-			"y":390,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"faaa57335dfc8bd4",
-			"type":"text",
-			"text":"Matthew 12:26",
-			"styleAttributes":{},
-			"x":1095,
-			"y":480,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"13eaef56ac5e0804",
-			"type":"text",
-			"text":"John 10:8",
-			"styleAttributes":{},
-			"x":1095,
-			"y":570,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1ba5e81ba94c29c4",
-			"type":"text",
-			"text":"Matthew 5",
-			"styleAttributes":{},
-			"x":1095,
-			"y":670,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2c440bc7f6245bbf",
-			"type":"text",
-			"text":"John 8:41-45",
-			"styleAttributes":{},
-			"x":1095,
-			"y":-190,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"dee538cc9404676a",
-			"type":"text",
-			"text":"Luke 9:51-56",
-			"styleAttributes":{},
-			"x":1095,
-			"y":80,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9f550adc31efc9d0",
-			"type":"text",
-			"text":"John 12:31-33",
-			"styleAttributes":{},
-			"x":1095,
-			"y":280,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"9e4b5b09b926f4f0",
 			"type":"text",
 			"text":"Now it came to pass, when the time had come for Him to be received up, that He steadfastly set His face to go to Jerusalem, and sent messengers before His face. And as they went, they entered a village of the Samaritans, to prepare for Him. But they did not receive Him, because His face was set for the journey to Jerusalem. And when His disciple James and John saw this, they said, \"Lord, do You want us to command fire to come down from heaven and consume them, just as Elijah did?\"\nBut He turned and rebuked them, and said, \"**You do not know what manner of spirit you are of**. For the Son of Man did not come to destroy men's lives but to save them.\" And they went to another village.",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":-10,
-			"width":750,
-			"height":240
+			"width":880,
+			"height":210
 		},
 		{
 			"id":"63803ff9727ac2f4",
 			"type":"text",
 			"text":"\"This world is being judged now. **The ruler of this world will be thrown out now**. When I have been lifted up from the earth, I will draw all people toward me.\" By saying this, he indicated how he was going to die.",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":250,
-			"width":750,
-			"height":120
+			"width":880,
+			"height":90
 		},
 		{
 			"id":"89edd59435e9630f",
 			"type":"text",
 			"text":"**The rule of this world has no power over me**. But he's coming, so I won't talk with you much longer.",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":390,
-			"width":750,
+			"width":880,
 			"height":60
 		},
 		{
@@ -116,9 +46,9 @@
 			"type":"text",
 			"text":"If Satan forces Satan out, **he is divided against himself**.\nHow, then, can his kingdom last?",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":470,
-			"width":740,
+			"width":880,
 			"height":80
 		},
 		{
@@ -126,9 +56,9 @@
 			"type":"text",
 			"text":"**All who came before me** (Yeshua) **are thieves and robbers**.",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":570,
-			"width":740,
+			"width":880,
 			"height":60
 		},
 		{
@@ -136,9 +66,9 @@
 			"type":"text",
 			"text":"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":650,
-			"width":740,
+			"width":880,
 			"height":100
 		},
 		{
@@ -146,10 +76,10 @@
 			"type":"text",
 			"text":"\"You're doing what your father does.\"\n\nThe Jews said to Jesus, \"We're not illegitimate children. God is our only Father.\"\n\nJesus told them, \"If God were your Father, you would love me. After all, I'm here, and I came from God. I didn't come on my own. Instead, God sent me. Why don't you understand the language I use? Is it because you can't understand the words I use? **You come from your father, the devil**, and you desire to do what your father wants you to do. **The devil was a murderer from the beginning**. He has never been truthful. He doesn't know what the truth is. Whenever he tells a lie, he's doing what comes naturally to him. **He's a liar and the father of lies**.",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":-290,
-			"width":750,
-			"height":260
+			"width":880,
+			"height":230
 		},
 		{
 			"id":"2e51142ddf58dbc9",
@@ -192,283 +122,13 @@
 			"height":60
 		},
 		{
-			"id":"a415c0c1debd5623",
-			"type":"text",
-			"text":"Your father is the devil",
-			"styleAttributes":{},
-			"x":25,
-			"y":-290,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"8c0f0281a369abef",
-			"type":"text",
-			"text":"What does Yeshua say about Satan?",
-			"styleAttributes":{},
-			"x":-305,
-			"y":30,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1e3211c7d5acd95b",
-			"type":"text",
-			"text":"Wrong spirit",
-			"styleAttributes":{},
-			"x":15,
-			"y":80,
-			"width":230,
-			"height":60
-		},
-		{
-			"id":"6ed7b8479391fd60",
-			"type":"text",
-			"text":"As they left Pharaoh, they found Moses and Aaron waiting for them. So they said, \"May the Lord see what you have done and judge you! You have made Pharaoh and his officials hate us. You have given them an excuse to kill us.\"\n**Moses went back to the Lord** and asked, \"Why have you brought this trouble on your people? Why did you send me? Ever since I went to Pharaoh to speak for you, he had treated your people cruelly, and you have done nothing at all to rescue your people.\"",
-			"styleAttributes":{},
-			"x":300,
-			"y":-2920,
-			"width":740,
-			"height":180
-		},
-		{
-			"id":"1f5c30c03fc56883",
-			"type":"text",
-			"text":"As soon as Modes went into the tent, the column of smoke would come down and stay at the entrance to the tent while the Lord spoke with Moses.\n\n**The Lord would speak to Moses personally, as a man speaks to his friend**. Then moses would come back to the camp, but his assistant, Joshua, son of Nun, stayed inside the tent.",
-			"styleAttributes":{},
-			"x":300,
-			"y":-2720,
-			"width":740,
-			"height":140
-		},
-		{
-			"id":"750a9d0d2ec7bf4a",
-			"type":"text",
-			"text":"Chapters 1-7",
-			"styleAttributes":{},
-			"x":300,
-			"y":-2570,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a9bd77eb7f955069",
-			"type":"text",
-			"text":"Suddenly, the Lord said to Moses, Aaron, and Miriam, \"All three of you come to the tent of meeting.\" So all three of them came. Then the Lord came down in the column of smoke and **stood at the entrance to the tent**. He called to Aaron and Miriam, and they both came forward.\nHe said, \"Listen to my words: When there are prophets of the Lord among you, I make myself known to them in visions or speak to them in dreams. But this is not the way I treat my servant Moses. He is the most faithful person in my household. **I speak with him face to face**, plainly and not in riddles. He even sees the form of the Lord. Why weren't you afraid to criticize my servant Moses?\" the Lord was angry with them, **so he left**.",
-			"styleAttributes":{},
-			"x":300,
-			"y":-2480,
-			"width":740,
-			"height":240
-		},
-		{
-			"id":"9a7a6226598c72da",
-			"type":"text",
-			"text":"So Jacob was left alone then a man wrestled with him until dawn. When the man saw that he could not win against Jacob **he touched the socket of Jacob's hip** so that it was dislocated as they wrestled.\n\nThen the man said, \"**Let me go**; it's almost dawn.\" But Jacob answered, \"**I won't let you go** until you bless me.\"\nSo the man asked him, \"What's your name?\"\n\"Jacob,\" he answered.\nThe man said, \"Your name will no longer be Jacob but Israel \\[He Wrestles With God\\], because you have wrestled with God and with men - and you have won.\"\n\nSo Jacob named that place Peniel \\[Face of God\\], because he said, \"I **have seen God face to face**, but my life was saved.\"",
-			"styleAttributes":{},
-			"x":480,
-			"y":-3480,
-			"width":560,
-			"height":360
-		},
-		{
-			"id":"a42ec79438552ee6",
-			"type":"text",
-			"text":"Genesis 35:9",
-			"styleAttributes":{},
-			"x":480,
-			"y":-3100,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"40440872cc287837",
 			"type":"text",
 			"text":"Leviticus",
 			"styleAttributes":{},
 			"x":-40,
 			"y":-2930,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f131088486ea112c",
-			"type":"text",
-			"text":"Numbers",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-2850,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"90da8e7880176568",
-			"type":"text",
-			"text":"Deuteronomy",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-2770,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"57e3e196e25e9eae",
-			"type":"text",
-			"text":"Judges",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-2690,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"34971fc9975a1356",
-			"type":"text",
-			"text":"1 Kings",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-2610,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ae04780497fedfe0",
-			"type":"text",
-			"text":"Numbers 12:4-9",
-			"styleAttributes":{},
-			"x":1100,
-			"y":-2860,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9faeb379948f4481",
-			"type":"text",
-			"text":"Exodus 33",
-			"styleAttributes":{},
-			"x":1100,
-			"y":-2680,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"15930a29d3241438",
-			"type":"text",
-			"text":"Deuteronomy",
-			"styleAttributes":{},
-			"x":1100,
-			"y":-2100,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1c6b8337eae2171d",
-			"type":"text",
-			"text":"1 Chronicles 21",
-			"styleAttributes":{},
-			"x":1100,
-			"y":-1960,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"83434cb5713b6644",
-			"type":"text",
-			"text":"Deuteronomy 32:48-52",
-			"styleAttributes":{},
-			"x":1095,
-			"y":-1105,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b4f8c9d737d85e61",
-			"type":"text",
-			"text":"Deuteronomy 34:1-7",
-			"styleAttributes":{},
-			"x":1095,
-			"y":-890,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"56d9a3eaf463f432",
-			"type":"text",
-			"text":"Deuteronomy 34:10",
-			"styleAttributes":{},
-			"x":1095,
-			"y":-730,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"23c9582d75776e07",
-			"type":"text",
-			"text":"John 8:19",
-			"styleAttributes":{},
-			"x":1095,
-			"y":-395,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f0074193c9925a14",
-			"type":"text",
-			"text":"choose a place outside the camp where you can go to relieve yourself. You must carry a pointed stick as part of your equipment. When you go outside to squat, dig a hole with it. When you're done, cover up your excrement. **The Lord your God moves around in your camp** to protect you and hand your enemies over to you. So your camp must always be holy. This way, the Lord will never see anything offensive among you and turn away from you.",
-			"styleAttributes":{},
-			"x":300,
-			"y":-2180,
-			"width":740,
-			"height":160
-		},
-		{
-			"id":"ddec0cdbdc3e9493",
-			"type":"text",
-			"text":"Then Satan stood against Israel and incited David to number Israel. So David said to Joab and the commanders of the army, \"Go, number (or mark) Israel, from Beersheba to Dan, and bring me a report, that i may know their number.\" But Joab said, \"May the LORD add to his people a hundred times as many as they are! Are they not, my lord the king, all of them are my lord's servants? Why then should my lord require this? Why should it be a cause of guilt for Israel?\" But the king's word prevailed against Joab. So Joab departed and went throughout all Israel and came back to Jerusalem. And Joab gave the sum of the numbering of the people to David.",
-			"styleAttributes":{},
-			"x":300,
-			"y":-2000,
-			"width":740,
-			"height":220
-		},
-		{
-			"id":"bb755dd5306f6c60",
-			"type":"text",
-			"text":"2 Corinthians 3:14-16",
-			"styleAttributes":{},
-			"x":670,
-			"y":-1720,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1605bf469d5a5ead",
-			"type":"text",
-			"text":"2 Corinthians 4:3-4",
-			"styleAttributes":{},
-			"x":670,
-			"y":-1570,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"138bc401af7c1f7a",
-			"type":"text",
-			"text":"What does Apocalypse or Revelation mean? As in, John's Apocalypse / Revelation",
-			"styleAttributes":{},
-			"x":380,
-			"y":-1450,
-			"width":380,
-			"height":80
-		},
-		{
-			"id":"f92f3673541000ea",
-			"type":"text",
-			"text":"The unveiling!",
-			"styleAttributes":{},
-			"x":380,
-			"y":-1360,
-			"width":260,
+			"width":140,
 			"height":60
 		},
 		{
@@ -478,8 +138,8 @@
 			"styleAttributes":{},
 			"x":135,
 			"y":-970,
-			"width":900,
-			"height":220
+			"width":1005,
+			"height":210
 		},
 		{
 			"id":"61995b90e324b423",
@@ -488,7 +148,7 @@
 			"styleAttributes":{},
 			"x":135,
 			"y":-730,
-			"width":900,
+			"width":1005,
 			"height":60
 		},
 		{
@@ -498,7 +158,7 @@
 			"styleAttributes":{},
 			"x":135,
 			"y":-630,
-			"width":900,
+			"width":1005,
 			"height":80
 		},
 		{
@@ -518,17 +178,17 @@
 			"styleAttributes":{},
 			"x":135,
 			"y":-530,
-			"width":900,
-			"height":80
+			"width":1005,
+			"height":90
 		},
 		{
 			"id":"cc71a2dc5b6c3d35",
 			"type":"text",
 			"text":"The Pharisees asked him, \"Where is your father?\"\n\nJesus replied, \"**You don't know me or my Father**. If you knew me you would also know my Father.\"",
 			"styleAttributes":{},
-			"x":285,
+			"x":260,
 			"y":-410,
-			"width":750,
+			"width":880,
 			"height":90
 		},
 		{
@@ -568,7 +228,7 @@
 			"styleAttributes":{},
 			"x":135,
 			"y":-1160,
-			"width":900,
+			"width":1005,
 			"height":170
 		},
 		{
@@ -580,76 +240,6 @@
 			"y":-1050,
 			"width":220,
 			"height":60
-		},
-		{
-			"id":"482cc2187e9bdbd7",
-			"type":"text",
-			"text":"2 Chronicles",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-2510,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"bc718be655200c53",
-			"type":"text",
-			"text":"The law veils people. Yeshua removes the veil.",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-1440,
-			"width":380,
-			"height":60
-		},
-		{
-			"id":"0e140b8bbbfce323",
-			"type":"text",
-			"text":"1 Samuel",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-2410,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"865b2fb4d9daba8e",
-			"type":"text",
-			"text":"The numbering or the marking of Israel. \nThe same event is recorded twice in the bible.",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-2000,
-			"width":300,
-			"height":120
-		},
-		{
-			"id":"2693d48b460a9d31",
-			"type":"text",
-			"text":"However their minds became closed. In fact to this day the same veil is still there when they read the Old Testament. It isn't removed, because only Christ can remove it. Yet, even today, when they read the books of Moses, a veil covers their minds. But whenever a person turns to the Lord, the veil is taken away.",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-1750,
-			"width":640,
-			"height":120
-		},
-		{
-			"id":"1b90fc208f00f5a2",
-			"type":"text",
-			"text":"The veil and the unveiling",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-1720,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"e0be96b42202e359",
-			"type":"text",
-			"text":"So if the Good News that we tell others is covered with a veil, it is hidden from those who are dying. The god of this age has blinded the minds of those who don't believe. As a result, they don't see the light of the Good News of Christ's glory. It is Christ who is God's image.",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-1600,
-			"width":640,
-			"height":120
 		},
 		{
 			"id":"e63e3622c0934d0d",
@@ -668,7 +258,7 @@
 			"styleAttributes":{},
 			"x":-300,
 			"y":-3120,
-			"width":220,
+			"width":180,
 			"height":60
 		},
 		{
@@ -682,33 +272,13 @@
 			"height":60
 		},
 		{
-			"id":"f8e23aae764a48e5",
-			"type":"text",
-			"text":"Genesis 26:2",
-			"styleAttributes":{},
-			"x":300,
-			"y":-3020,
-			"width":185,
-			"height":60
-		},
-		{
-			"id":"a509909892c4686f",
-			"type":"text",
-			"text":"Exodus",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-3010,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"4dc5c38664643691",
 			"type":"text",
 			"text":"The one who set that set himself up as god",
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5840,
-			"width":380,
+			"width":340,
 			"height":60
 		},
 		{
@@ -718,7 +288,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5740,
-			"width":380,
+			"width":360,
 			"height":60
 		},
 		{
@@ -728,7 +298,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5640,
-			"width":380,
+			"width":360,
 			"height":60
 		},
 		{
@@ -738,7 +308,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5560,
-			"width":380,
+			"width":340,
 			"height":60
 		},
 		{
@@ -748,7 +318,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5480,
-			"width":260,
+			"width":240,
 			"height":60
 		},
 		{
@@ -758,7 +328,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5400,
-			"width":260,
+			"width":160,
 			"height":60
 		},
 		{
@@ -768,7 +338,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5320,
-			"width":260,
+			"width":200,
 			"height":60
 		},
 		{
@@ -778,7 +348,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5240,
-			"width":260,
+			"width":200,
 			"height":60
 		},
 		{
@@ -788,7 +358,7 @@
 			"styleAttributes":{},
 			"x":-40,
 			"y":-5140,
-			"width":260,
+			"width":240,
 			"height":60
 		},
 		{
@@ -799,43 +369,13 @@
 			"x":-40,
 			"y":-5070,
 			"width":420,
-			"height":260
-		},
-		{
-			"id":"18882ed6a2528d45",
-			"type":"text",
-			"text":"Who is the God of this world/age?",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-4540,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"9019bcf4f163da47",
-			"type":"text",
-			"text":"Genesis",
-			"styleAttributes":{},
-			"x":-40,
-			"y":-4405,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8e176b4b3bbc87ee",
-			"type":"text",
-			"text":"The Garden",
-			"styleAttributes":{},
-			"x":280,
-			"y":-4405,
-			"width":130,
-			"height":60
+			"height":220
 		},
 		{
 			"id":"d190ed7ab0311715",
 			"type":"text",
 			"text":"Elohim",
-			"styleAttributes":{},
+			"styleAttributes":{"textAlign":"center"},
 			"x":440,
 			"y":-4980,
 			"width":100,
@@ -845,7 +385,7 @@
 			"id":"397d5e96d1822b29",
 			"type":"text",
 			"text":"YHWH",
-			"styleAttributes":{},
+			"styleAttributes":{"textAlign":"center"},
 			"x":440,
 			"y":-4800,
 			"width":100,
@@ -858,7 +398,7 @@
 			"styleAttributes":{},
 			"x":580,
 			"y":-5100,
-			"width":260,
+			"width":280,
 			"height":60
 		},
 		{
@@ -868,7 +408,7 @@
 			"styleAttributes":{},
 			"x":580,
 			"y":-4960,
-			"width":260,
+			"width":180,
 			"height":60
 		},
 		{
@@ -878,7 +418,7 @@
 			"styleAttributes":{},
 			"x":580,
 			"y":-4840,
-			"width":260,
+			"width":240,
 			"height":60
 		},
 		{
@@ -909,26 +449,6 @@
 			"x":900,
 			"y":-4740,
 			"width":100,
-			"height":60
-		},
-		{
-			"id":"a719481c268895af",
-			"type":"text",
-			"text":"-hebrew symbols-",
-			"styleAttributes":{},
-			"x":580,
-			"y":-4620,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"3ba29e4299c6ece2",
-			"type":"text",
-			"text":"The tetragrammaton",
-			"styleAttributes":{},
-			"x":840,
-			"y":-4620,
-			"width":260,
 			"height":60
 		},
 		{
@@ -978,7 +498,7 @@
 			"styleAttributes":{},
 			"x":1120,
 			"y":-5140,
-			"width":420,
+			"width":460,
 			"height":100
 		},
 		{
@@ -988,28 +508,8 @@
 			"styleAttributes":{},
 			"x":1120,
 			"y":-5000,
-			"width":420,
+			"width":460,
 			"height":80
-		},
-		{
-			"id":"49eb7e0884454a3b",
-			"type":"text",
-			"text":"According to the entirety of Torah, who is the God of this world?",
-			"styleAttributes":{},
-			"x":320,
-			"y":-4540,
-			"width":300,
-			"height":80
-		},
-		{
-			"id":"0f4bdee6da82b4ab",
-			"type":"text",
-			"text":"Yahweh",
-			"styleAttributes":{},
-			"x":660,
-			"y":-4520,
-			"width":100,
-			"height":60
 		},
 		{
 			"id":"01bfd83da6aa749e",
@@ -1018,247 +518,17 @@
 			"styleAttributes":{},
 			"x":480,
 			"y":-4400,
-			"width":520,
-			"height":210
-		},
-		{
-			"id":"d80d02703cf69bd9",
-			"type":"text",
-			"text":"Genesis 3:8-10",
-			"styleAttributes":{},
-			"x":1060,
-			"y":-4325,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"9210fffad4d1e18a",
-			"type":"text",
-			"text":"The the Lord God said, \"The man has become **like one of us**, since he knows good and evil. He must not reach our and take the fruit from the tree of life and eat. Then he would live forever.\"",
-			"styleAttributes":{},
-			"x":480,
-			"y":-4160,
-			"width":520,
-			"height":85
-		},
-		{
-			"id":"5600df8545cd8287",
-			"type":"text",
-			"text":"Genesis 3:22",
-			"styleAttributes":{},
-			"x":1060,
-			"y":-4145,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"66a8de5d8adaa01d",
-			"type":"text",
-			"text":"Babel",
-			"styleAttributes":{},
-			"x":300,
-			"y":-4040,
-			"width":110,
-			"height":60
-		},
-		{
-			"id":"41bab7c0db34d2e0",
-			"type":"text",
-			"text":"The Lord **came down to see** the city this is about the tower (of babel) that the descendants of Adam were building.  The Lord said, \"They are one people with one language. This is only the beginning of what they will do! Now nothing they plan to do will be too difficult for them. **Let us go down there** and mix up their language so that they won't understand each other.\"",
-			"styleAttributes":{},
-			"x":480,
-			"y":-4040,
-			"width":520,
-			"height":170
-		},
-		{
-			"id":"2703174326075d91",
-			"type":"text",
-			"text":"...am",
-			"styleAttributes":{},
-			"x":300,
-			"y":-3850,
-			"width":110,
-			"height":60
-		},
-		{
-			"id":"e5c3ec81095904e3",
-			"type":"text",
-			"text":"The Lord appeared to Abraham by the oak trees belonging to Mamre as he was sitting at the entrance of his tent during the hottest part of the day. Abraham looked up, and suddenly he saw **three men standing near him**. When he saw them, **he ran to meet them**, and he bowed with his face touching the ground.\n\n\"Please, sir,\" Abraham said, \"stop by to visit me for a while. Why don't we let someone bring a little water? **After you wash your feet you can stretch out and rest under the tree**. Let me bring you some bread that you can regain your strength. After that you can leave, since this is why you stopped by to visit me.\"\n\nThey answered, \"That's fine. Do as you say.\"",
-			"styleAttributes":{},
-			"x":480,
-			"y":-3840,
-			"width":560,
-			"height":340
+			"width":920,
+			"height":160
 		},
 		{
 			"id":"b46042e156a972fd",
 			"type":"text",
 			"text":"Yahweh is...",
-			"styleAttributes":{},
+			"styleAttributes":{"textAlign":"center"},
 			"x":-300,
 			"y":-3700,
-			"width":160,
-			"height":60
-		},
-		{
-			"id":"c08d77e4229f4531",
-			"type":"text",
-			"text":"Gen 11:5-7",
-			"styleAttributes":{},
-			"x":1060,
-			"y":-3980,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"06213c9775b69ced",
-			"type":"text",
-			"text":"**God of this world** according to the entirety of Torah.",
-			"styleAttributes":{},
-			"x":625,
-			"y":3930,
-			"width":340,
-			"height":60
-		},
-		{
-			"id":"db939768b19ab8cf",
-			"type":"text",
-			"text":"But not THE God.",
-			"styleAttributes":{},
-			"x":1025,
-			"y":3930,
-			"width":170,
-			"height":60
-		},
-		{
-			"id":"0fd1608628f42521",
-			"type":"text",
-			"text":"Snake",
-			"styleAttributes":{},
-			"x":465,
-			"y":4050,
-			"width":100,
-			"height":60
-		},
-		{
-			"id":"47c78bd952cff93b",
-			"type":"text",
-			"text":"Yeshua, the creator of mankind",
-			"styleAttributes":{},
-			"x":625,
-			"y":4050,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"960f382cc292707e",
-			"type":"text",
-			"text":"Created the desired state for mankind that Yahweh then destroys.  Yeshua then restores us to that state again in Revelation 22.",
-			"styleAttributes":{},
-			"x":985,
-			"y":4050,
-			"width":480,
-			"height":100
-		},
-		{
-			"id":"ea1e1b0b9160a3c3",
-			"type":"text",
-			"text":"If the snake in the garden is Satan, one is forced to explain why Yeshua in Revelation 22 is restoring mankind back to the state that Satan wanted for them in the garden, AND why the text calls it a restoration.",
-			"styleAttributes":{},
-			"x":365,
-			"y":3430,
-			"width":480,
-			"height":120
-		},
-		{
-			"id":"3cce4b0faba3f000",
-			"type":"text",
-			"text":"(that's) God in the garden",
-			"styleAttributes":{},
-			"x":545,
-			"y":3690,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"49c2cf48cd0135da",
-			"type":"text",
-			"text":"Snake",
-			"styleAttributes":{},
-			"x":545,
-			"y":3770,
-			"width":90,
-			"height":60
-		},
-		{
-			"id":"8fd6d27a9447122e",
-			"type":"text",
-			"text":"Satan, a fallen angel",
-			"styleAttributes":{},
-			"x":685,
-			"y":3770,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"59fda5b11b316f14",
-			"type":"text",
-			"text":"Yahweh",
-			"styleAttributes":{},
-			"x":465,
-			"y":3850,
-			"width":100,
-			"height":60
-		},
-		{
-			"id":"91b4e9d34996e6a9",
-			"type":"text",
-			"text":"Ruler of the Garden of Eden",
-			"styleAttributes":{},
-			"x":625,
-			"y":3850,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"35bedb01fec6a8c2",
-			"type":"text",
-			"text":"The theological dilemma",
-			"styleAttributes":{},
-			"x":25,
-			"y":3430,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"55f37c2a17399048",
-			"type":"text",
-			"text":"Reframing the context",
-			"styleAttributes":{},
-			"x":25,
-			"y":3730,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"f50624cee9163ff8",
-			"type":"text",
-			"text":"Christianity (says)",
-			"styleAttributes":{},
-			"x":295,
-			"y":3690,
-			"width":190,
-			"height":60
-		},
-		{
-			"id":"4818c8176b2c12aa",
-			"type":"text",
-			"text":"Bible",
-			"styleAttributes":{},
-			"x":305,
-			"y":3870,
-			"width":85,
+			"width":180,
 			"height":60
 		},
 		{
@@ -1292,73 +562,13 @@
 			"height":60
 		},
 		{
-			"id":"f32d793d83538c97",
-			"type":"text",
-			"text":"Jesus, whom heaven must receive until the time for restoring all the things about which God spoke.",
-			"styleAttributes":{},
-			"x":925,
-			"y":3330,
-			"width":540,
-			"height":60
-		},
-		{
-			"id":"b7ff1de75a974271",
-			"type":"text",
-			"text":"The only **previous state** that Yeshua is **restoring**, is the one the **snake created** before Yahweh cursed them.",
-			"styleAttributes":{},
-			"x":925,
-			"y":3430,
-			"width":540,
-			"height":60
-		},
-		{
-			"id":"c25f3594377ed5aa",
-			"type":"text",
-			"text":"This is an obvious theological dilemma that you've never been taught, because it's immediately obvious that the snake simply can't be Satan, and the entire Christian narrative will collapse as its foundation of original sin and the snake being Satan, evaporates.",
-			"styleAttributes":{},
-			"x":925,
-			"y":3530,
-			"width":540,
-			"height":120
-		},
-		{
-			"id":"e6f6363df5f3af89",
-			"type":"text",
-			"text":"God the creator of mankind",
-			"styleAttributes":{},
-			"x":865,
-			"y":3690,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"cae6236069d25cab",
-			"type":"text",
-			"text":"What the snake wanted for man",
-			"styleAttributes":{},
-			"x":465,
-			"y":3010,
-			"width":300,
-			"height":60
-		},
-		{
-			"id":"3c4dac9e522d0c98",
-			"type":"text",
-			"text":"Summary",
-			"styleAttributes":{},
-			"x":225,
-			"y":3030,
-			"width":140,
-			"height":60
-		},
-		{
 			"id":"3a1a53c35a64cf00",
 			"type":"text",
 			"text":"What Yahweh did to us",
 			"styleAttributes":{},
 			"x":485,
 			"y":3110,
-			"width":260,
+			"width":235,
 			"height":60
 		},
 		{
@@ -1368,37 +578,7 @@
 			"styleAttributes":{},
 			"x":485,
 			"y":3190,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a5f8cf541d6ab7fc",
-			"type":"text",
-			"text":"1 Peter 3:8",
-			"styleAttributes":{},
-			"x":1085,
-			"y":1000,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8ba2c4eff7f4b5e4",
-			"type":"text",
-			"text":"1 John 3:8",
-			"styleAttributes":{},
-			"x":1085,
-			"y":1090,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"cd768c71c0849add",
-			"type":"text",
-			"text":"Paul",
-			"styleAttributes":{},
-			"x":5,
-			"y":905,
-			"width":115,
+			"width":235,
 			"height":60
 		},
 		{
@@ -1412,114 +592,14 @@
 			"height":60
 		},
 		{
-			"id":"81e5a5364f63e067",
-			"type":"text",
-			"text":"Man is in the garden",
-			"styleAttributes":{},
-			"x":425,
-			"y":1290,
-			"width":200,
-			"height":60
-		},
-		{
-			"id":"5bf12aae6a8407a7",
-			"type":"text",
-			"text":"No self-awareness",
-			"styleAttributes":{},
-			"x":425,
-			"y":1370,
-			"width":185,
-			"height":60
-		},
-		{
-			"id":"619c260451776472",
-			"type":"text",
-			"text":"Yahweh didn't want Adam & Eve to be able to recognize good from evil.",
-			"styleAttributes":{},
-			"x":685,
-			"y":1330,
-			"width":400,
-			"height":60
-		},
-		{
-			"id":"2feaa320ed55c748",
-			"type":"text",
-			"text":"Unlike Yahweh, who could",
-			"styleAttributes":{},
-			"x":685,
-			"y":1410,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a3c3ac2b1d48b960",
-			"type":"text",
-			"text":"Why?",
-			"styleAttributes":{},
-			"x":925,
-			"y":1210,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f82fbc469bd304e6",
-			"type":"text",
-			"text":"Access to all the trees except the tree of good and evil.",
-			"styleAttributes":{},
-			"x":425,
-			"y":1490,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"90e351d3e256e214",
-			"type":"text",
-			"text":"None of the seven letter of Revelation mention the popular notion that Yahweh was Satan",
-			"styleAttributes":{},
-			"x":5,
-			"y":1210,
-			"width":840,
-			"height":60
-		},
-		{
 			"id":"b45dcf0ba0a78f35",
 			"type":"text",
 			"text":"You were once dead because of your failures and sins. You followed the ways of this present world and its spiritual ruler. This ruler continues to work in people who refuse to obey God. All of us once lived among these people, and followed the desires of our corrupt nature.",
 			"styleAttributes":{},
-			"x":205,
+			"x":260,
 			"y":880,
-			"width":810,
+			"width":880,
 			"height":110
-		},
-		{
-			"id":"9fb742944d160c99",
-			"type":"text",
-			"text":"your adversary the devil prowls around like a roaring lion seeking someone to devour",
-			"styleAttributes":{},
-			"x":205,
-			"y":1000,
-			"width":680,
-			"height":60
-		},
-		{
-			"id":"89cc837f1e79da83",
-			"type":"text",
-			"text":"The reason that the Son of God appeared was to destroy what the devil does",
-			"styleAttributes":{},
-			"x":205,
-			"y":1090,
-			"width":680,
-			"height":60
-		},
-		{
-			"id":"0856a7b681e182aa",
-			"type":"text",
-			"text":"Peter",
-			"styleAttributes":{},
-			"x":5,
-			"y":1000,
-			"width":115,
-			"height":60
 		},
 		{
 			"id":"2b0ec879d710b3a3",
@@ -1528,57 +608,7 @@
 			"styleAttributes":{},
 			"x":-315,
 			"y":1030,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"0357da409a89a958",
-			"type":"text",
-			"text":"John",
-			"styleAttributes":{},
-			"x":5,
-			"y":1090,
-			"width":115,
-			"height":60
-		},
-		{
-			"id":"e2ad9d175db11fc9",
-			"type":"text",
-			"text":"Biological immortality\n(because they had access to the fruit of the tree)",
-			"styleAttributes":{},
-			"x":425,
-			"y":1570,
-			"width":420,
-			"height":60
-		},
-		{
-			"id":"e5e4cc07eb4bae7a",
-			"type":"text",
-			"text":"No curse",
-			"styleAttributes":{},
-			"x":425,
-			"y":1650,
-			"width":120,
-			"height":60
-		},
-		{
-			"id":"699eb6057b87cfb5",
-			"type":"text",
-			"text":"Man is in the garden",
-			"styleAttributes":{},
-			"x":425,
-			"y":1730,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"3cf4165dc65112f9",
-			"type":"text",
-			"text":"Has self awareness",
-			"styleAttributes":{},
-			"x":425,
-			"y":1810,
-			"width":260,
+			"width":130,
 			"height":60
 		},
 		{
@@ -1589,16 +619,6 @@
 			"x":225,
 			"y":1830,
 			"width":140,
-			"height":60
-		},
-		{
-			"id":"bc0655992c5368fe",
-			"type":"text",
-			"text":"Access to all the fruit in the garden",
-			"styleAttributes":{},
-			"x":425,
-			"y":1890,
-			"width":300,
 			"height":60
 		},
 		{
@@ -1632,26 +652,6 @@
 			"height":60
 		},
 		{
-			"id":"4e2996e75d5bf6b5",
-			"type":"text",
-			"text":"Biological immortality",
-			"styleAttributes":{},
-			"x":425,
-			"y":1970,
-			"width":210,
-			"height":60
-		},
-		{
-			"id":"9f6a869b39ea9ab5",
-			"type":"text",
-			"text":"No curse",
-			"styleAttributes":{},
-			"x":425,
-			"y":2050,
-			"width":120,
-			"height":60
-		},
-		{
 			"id":"ef02825c3139205f",
 			"type":"text",
 			"text":"Yahweh curses mankind and their relationship with the snake",
@@ -1678,7 +678,7 @@
 			"styleAttributes":{},
 			"x":485,
 			"y":2290,
-			"width":260,
+			"width":250,
 			"height":60
 		},
 		{
@@ -1688,7 +688,7 @@
 			"styleAttributes":{},
 			"x":485,
 			"y":2370,
-			"width":440,
+			"width":340,
 			"height":60
 		},
 		{
@@ -1698,57 +698,7 @@
 			"styleAttributes":{},
 			"x":485,
 			"y":2450,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f7c4be7fd86c4595",
-			"type":"text",
-			"text":"Man is in the garden",
-			"styleAttributes":{},
-			"x":505,
-			"y":2550,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"6494865362cfbc4b",
-			"type":"text",
-			"text":"Has self-awareness",
-			"styleAttributes":{},
-			"x":505,
-			"y":2630,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2d9dd243f2bf0fe4",
-			"type":"text",
-			"text":"Access to all the fruit in the garden",
-			"styleAttributes":{},
-			"x":505,
-			"y":2730,
-			"width":420,
-			"height":60
-		},
-		{
-			"id":"53a447e836eb4fd5",
-			"type":"text",
-			"text":"Biological immortality",
-			"styleAttributes":{},
-			"x":505,
-			"y":2830,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"4d14e28af826c3b9",
-			"type":"text",
-			"text":"No curse",
-			"styleAttributes":{},
-			"x":505,
-			"y":2910,
-			"width":260,
+			"width":250,
 			"height":60
 		},
 		{
@@ -1778,18 +728,8 @@
 			"styleAttributes":{},
 			"x":-20,
 			"y":4200,
-			"width":795,
-			"height":120
-		},
-		{
-			"id":"8711de89da82cae5",
-			"type":"text",
-			"text":"Revalation 2:12-13",
-			"styleAttributes":{},
-			"x":985,
-			"y":4230,
-			"width":260,
-			"height":60
+			"width":1180,
+			"height":90
 		},
 		{
 			"id":"9653c85bbd816021",
@@ -1858,7 +798,7 @@
 			"styleAttributes":{},
 			"x":-20,
 			"y":5300,
-			"width":260,
+			"width":268,
 			"height":60
 		},
 		{
@@ -1869,6 +809,1066 @@
 			"x":320,
 			"y":5040,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"9019bcf4f163da47",
+			"type":"text",
+			"text":"Genesis",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-40,
+			"y":-3820,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"a719481c268895af",
+			"type":"text",
+			"text":"-hebrew symbols-",
+			"styleAttributes":{},
+			"x":580,
+			"y":-4660,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"3ba29e4299c6ece2",
+			"type":"text",
+			"text":"The tetragrammaton",
+			"styleAttributes":{},
+			"x":840,
+			"y":-4660,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"0f4bdee6da82b4ab",
+			"type":"text",
+			"text":"Yahweh",
+			"styleAttributes":{"textAlign":"center"},
+			"x":660,
+			"y":-4570,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"49eb7e0884454a3b",
+			"type":"text",
+			"text":"According to the entirety of Torah, who is the God of this world?",
+			"styleAttributes":{},
+			"x":320,
+			"y":-4580,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"18882ed6a2528d45",
+			"type":"text",
+			"text":"Who is the God of this world/age?",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-4570,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"d80d02703cf69bd9",
+			"type":"text",
+			"text":"Genesis 3:8-10",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-4350,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"5600df8545cd8287",
+			"type":"text",
+			"text":"Genesis 3:22",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-4212,
+			"width":140,
+			"height":70
+		},
+		{
+			"id":"9210fffad4d1e18a",
+			"type":"text",
+			"text":"The the Lord God said, \"The man has become **like one of us**, since he knows good and evil. He must not reach our and take the fruit from the tree of life and eat. Then he would live forever.\"",
+			"styleAttributes":{},
+			"x":480,
+			"y":-4220,
+			"width":920,
+			"height":85
+		},
+		{
+			"id":"8e176b4b3bbc87ee",
+			"type":"text",
+			"text":"The Garden",
+			"styleAttributes":{"textAlign":"center"},
+			"x":280,
+			"y":-4280,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"41bab7c0db34d2e0",
+			"type":"text",
+			"text":"The Lord **came down to see** the city this is about the tower (of babel) that the descendants of Adam were building.  The Lord said, \"They are one people with one language. This is only the beginning of what they will do! Now nothing they plan to do will be too difficult for them. **Let us go down there** and mix up their language so that they won't understand each other.\"",
+			"styleAttributes":{},
+			"x":480,
+			"y":-4120,
+			"width":920,
+			"height":85
+		},
+		{
+			"id":"c08d77e4229f4531",
+			"type":"text",
+			"text":"Gen 11:5-7",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-4108,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"e5c3ec81095904e3",
+			"type":"text",
+			"text":"The Lord appeared to Abraham by the oak trees belonging to Mamre as he was sitting at the entrance of his tent during the hottest part of the day. Abraham looked up, and suddenly he saw **three men standing near him**. When he saw them, **he ran to meet them**, and he bowed with his face touching the ground.\n\n\"Please, sir,\" Abraham said, \"stop by to visit me for a while. Why don't we let someone bring a little water? **After you wash your feet you can stretch out and rest under the tree**. Let me bring you some bread that you can regain your strength. After that you can leave, since this is why you stopped by to visit me.\"\n\nThey answered, \"That's fine. Do as you say.\"",
+			"styleAttributes":{},
+			"x":480,
+			"y":-4000,
+			"width":920,
+			"height":240
+		},
+		{
+			"id":"9a7a6226598c72da",
+			"type":"text",
+			"text":"So Jacob was left alone then a man wrestled with him until dawn. When the man saw that he could not win against Jacob **he touched the socket of Jacob's hip** so that it was dislocated as they wrestled.\n\nThen the man said, \"**Let me go**; it's almost dawn.\" But Jacob answered, \"**I won't let you go** until you bless me.\"\nSo the man asked him, \"What's your name?\"\n\"Jacob,\" he answered.\nThe man said, \"Your name will no longer be Jacob but Israel \\[He Wrestles With God\\], because you have wrestled with God and with men - and you have won.\"\n\nSo Jacob named that place Peniel \\[Face of God\\], because he said, \"I **have seen God face to face**, but my life was saved.\"",
+			"styleAttributes":{},
+			"x":480,
+			"y":-3740,
+			"width":920,
+			"height":260
+		},
+		{
+			"id":"66a8de5d8adaa01d",
+			"type":"text",
+			"text":"Babel",
+			"styleAttributes":{"textAlign":"center"},
+			"x":280,
+			"y":-4107,
+			"width":110,
+			"height":60
+		},
+		{
+			"id":"2703174326075d91",
+			"type":"text",
+			"text":"...am",
+			"styleAttributes":{"textAlign":"center"},
+			"x":280,
+			"y":-3910,
+			"width":110,
+			"height":60
+		},
+		{
+			"id":"a42ec79438552ee6",
+			"type":"text",
+			"text":"Genesis 35:9",
+			"styleAttributes":{},
+			"x":480,
+			"y":-3440,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6ed7b8479391fd60",
+			"type":"text",
+			"text":"As they left Pharaoh, they found Moses and Aaron waiting for them. So they said, \"May the Lord see what you have done and judge you! You have made Pharaoh and his officials hate us. You have given them an excuse to kill us.\"\n**Moses went back to the Lord** and asked, \"Why have you brought this trouble on your people? Why did you send me? Ever since I went to Pharaoh to speak for you, he had treated your people cruelly, and you have done nothing at all to rescue your people.\"",
+			"styleAttributes":{},
+			"x":295,
+			"y":-3260,
+			"width":1105,
+			"height":140
+		},
+		{
+			"id":"f8e23aae764a48e5",
+			"type":"text",
+			"text":"Genesis 26:2",
+			"styleAttributes":{},
+			"x":295,
+			"y":-3360,
+			"width":185,
+			"height":60
+		},
+		{
+			"id":"ae04780497fedfe0",
+			"type":"text",
+			"text":"Numbers 12:4-9",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-3220,
+			"width":185,
+			"height":60
+		},
+		{
+			"id":"1f5c30c03fc56883",
+			"type":"text",
+			"text":"As soon as Modes went into the tent, the column of smoke would come down and stay at the entrance to the tent while the Lord spoke with Moses.\n\n**The Lord would speak to Moses personally, as a man speaks to his friend**. Then moses would come back to the camp, but his assistant, Joshua, son of Nun, stayed inside the tent.",
+			"styleAttributes":{},
+			"x":295,
+			"y":-3090,
+			"width":1105,
+			"height":130
+		},
+		{
+			"id":"a509909892c4686f",
+			"type":"text",
+			"text":"Exodus",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-3140,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"750a9d0d2ec7bf4a",
+			"type":"text",
+			"text":"Chapters 1-7",
+			"styleAttributes":{},
+			"x":295,
+			"y":-2930,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a9bd77eb7f955069",
+			"type":"text",
+			"text":"Suddenly, the Lord said to Moses, Aaron, and Miriam, \"All three of you come to the tent of meeting.\" So all three of them came. Then the Lord came down in the column of smoke and **stood at the entrance to the tent**. He called to Aaron and Miriam, and they both came forward.\nHe said, \"Listen to my words: When there are prophets of the Lord among you, I make myself known to them in visions or speak to them in dreams. But this is not the way I treat my servant Moses. He is the most faithful person in my household. **I speak with him face to face**, plainly and not in riddles. He even sees the form of the Lord. Why weren't you afraid to criticize my servant Moses?\" the Lord was angry with them, **so he left**.",
+			"styleAttributes":{},
+			"x":300,
+			"y":-2850,
+			"width":1100,
+			"height":150
+		},
+		{
+			"id":"482cc2187e9bdbd7",
+			"type":"text",
+			"text":"2 Chronicles",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-2280,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"0e140b8bbbfce323",
+			"type":"text",
+			"text":"1 Samuel",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-2180,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"f131088486ea112c",
+			"type":"text",
+			"text":"Numbers",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-2805,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"9faeb379948f4481",
+			"type":"text",
+			"text":"Exodus 33",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-3055,
+			"width":185,
+			"height":60
+		},
+		{
+			"id":"f0074193c9925a14",
+			"type":"text",
+			"text":"choose a place outside the camp where you can go to relieve yourself. You must carry a pointed stick as part of your equipment. When you go outside to squat, dig a hole with it. When you're done, cover up your excrement. **The Lord your God moves around in your camp** to protect you and hand your enemies over to you. So your camp must always be holy. This way, the Lord will never see anything offensive among you and turn away from you.",
+			"styleAttributes":{},
+			"x":300,
+			"y":-2670,
+			"width":1100,
+			"height":110
+		},
+		{
+			"id":"90da8e7880176568",
+			"type":"text",
+			"text":"Deuteronomy",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-2645,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"15930a29d3241438",
+			"type":"text",
+			"text":"Deuteronomy",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-2645,
+			"width":160,
+			"height":60
+		},
+		{
+			"id":"34971fc9975a1356",
+			"type":"text",
+			"text":"1 Kings",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-2390,
+			"width":140,
+			"height":70
+		},
+		{
+			"id":"57e3e196e25e9eae",
+			"type":"text",
+			"text":"Judges",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-2500,
+			"width":140,
+			"height":70
+		},
+		{
+			"id":"ddec0cdbdc3e9493",
+			"type":"text",
+			"text":"Then Satan stood against Israel and incited David to number Israel. So David said to Joab and the commanders of the army, \"Go, number (or mark) Israel, from Beersheba to Dan, and bring me a report, that i may know their number.\" But Joab said, \"May the LORD add to his people a hundred times as many as they are! Are they not, my lord the king, all of them are my lord's servants? Why then should my lord require this? Why should it be a cause of guilt for Israel?\" But the king's word prevailed against Joab. So Joab departed and went throughout all Israel and came back to Jerusalem. And Joab gave the sum of the numbering of the people to David.",
+			"styleAttributes":{},
+			"x":300,
+			"y":-2100,
+			"width":1100,
+			"height":170
+		},
+		{
+			"id":"865b2fb4d9daba8e",
+			"type":"text",
+			"text":"The numbering or the marking of Israel. \nThe same event is recorded twice in the bible.",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-2075,
+			"width":300,
+			"height":120
+		},
+		{
+			"id":"1c6b8337eae2171d",
+			"type":"text",
+			"text":"1 Chronicles 21",
+			"styleAttributes":{},
+			"x":1440,
+			"y":-2045,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"bc718be655200c53",
+			"type":"text",
+			"text":"The law veils people. Yeshua removes the veil.",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-1570,
+			"width":380,
+			"height":60
+		},
+		{
+			"id":"f92f3673541000ea",
+			"type":"text",
+			"text":"The unveiling!",
+			"styleAttributes":{},
+			"x":380,
+			"y":-1490,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"138bc401af7c1f7a",
+			"type":"text",
+			"text":"What does Apocalypse or Revelation mean? As in, John's Apocalypse / Revelation",
+			"styleAttributes":{},
+			"x":380,
+			"y":-1580,
+			"width":655,
+			"height":70
+		},
+		{
+			"id":"2693d48b460a9d31",
+			"type":"text",
+			"text":"However their minds became closed. In fact to this day the same veil is still there when they read the Old Testament. It isn't removed, because only Christ can remove it. Yet, even today, when they read the books of Moses, a veil covers their minds. But whenever a person turns to the Lord, the veil is taken away.",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-1880,
+			"width":1180,
+			"height":90
+		},
+		{
+			"id":"bb755dd5306f6c60",
+			"type":"text",
+			"text":"2 Corinthians 3:14-16",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-1865,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"1605bf469d5a5ead",
+			"type":"text",
+			"text":"2 Corinthians 4:3-4",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-1700,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"e0be96b42202e359",
+			"type":"text",
+			"text":"So if the Good News that we tell others is covered with a veil, it is hidden from those who are dying. The god of this age has blinded the minds of those who don't believe. As a result, they don't see the light of the Good News of Christ's glory. It is Christ who is God's image.",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-1730,
+			"width":1180,
+			"height":90
+		},
+		{
+			"id":"1b90fc208f00f5a2",
+			"type":"text",
+			"text":"The veil and the unveiling",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-1715,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"83434cb5713b6644",
+			"type":"text",
+			"text":"Deuteronomy 32:48-52",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-1105,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"b4f8c9d737d85e61",
+			"type":"text",
+			"text":"Deuteronomy 34:1-7",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-890,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"56d9a3eaf463f432",
+			"type":"text",
+			"text":"Deuteronomy 34:10",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-730,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"23c9582d75776e07",
+			"type":"text",
+			"text":"John 8:19",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-395,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"2e0bdf9e1d9db225",
+			"type":"text",
+			"text":"John 14:30",
+			"styleAttributes":{},
+			"x":1200,
+			"y":390,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"faaa57335dfc8bd4",
+			"type":"text",
+			"text":"Matthew 12:26",
+			"styleAttributes":{},
+			"x":1200,
+			"y":480,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"13eaef56ac5e0804",
+			"type":"text",
+			"text":"John 10:8",
+			"styleAttributes":{},
+			"x":1200,
+			"y":570,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"1ba5e81ba94c29c4",
+			"type":"text",
+			"text":"Matthew 5",
+			"styleAttributes":{},
+			"x":1200,
+			"y":670,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"a415c0c1debd5623",
+			"type":"text",
+			"text":"Your father is the devil",
+			"styleAttributes":{},
+			"x":15,
+			"y":-290,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"2c440bc7f6245bbf",
+			"type":"text",
+			"text":"John 8:41-45",
+			"styleAttributes":{},
+			"x":1200,
+			"y":-205,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"1e3211c7d5acd95b",
+			"type":"text",
+			"text":"Wrong spirit",
+			"styleAttributes":{},
+			"x":15,
+			"y":65,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"dee538cc9404676a",
+			"type":"text",
+			"text":"Luke 9:51-56",
+			"styleAttributes":{},
+			"x":1200,
+			"y":65,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"9f550adc31efc9d0",
+			"type":"text",
+			"text":"John 12:31-33",
+			"styleAttributes":{},
+			"x":1200,
+			"y":265,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"8c0f0281a369abef",
+			"type":"text",
+			"text":"What does Yeshua say about Satan?",
+			"styleAttributes":{},
+			"x":-315,
+			"y":205,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"8ba2c4eff7f4b5e4",
+			"type":"text",
+			"text":"1 John 3:8",
+			"styleAttributes":{},
+			"x":1200,
+			"y":1090,
+			"width":135,
+			"height":60
+		},
+		{
+			"id":"a5f8cf541d6ab7fc",
+			"type":"text",
+			"text":"1 Peter 3:8",
+			"styleAttributes":{},
+			"x":1200,
+			"y":1000,
+			"width":135,
+			"height":60
+		},
+		{
+			"id":"9fb742944d160c99",
+			"type":"text",
+			"text":"your adversary the devil prowls around like a roaring lion seeking someone to devour",
+			"styleAttributes":{},
+			"x":260,
+			"y":1000,
+			"width":880,
+			"height":60
+		},
+		{
+			"id":"89cc837f1e79da83",
+			"type":"text",
+			"text":"The reason that the Son of God appeared was to destroy what the devil does",
+			"styleAttributes":{},
+			"x":260,
+			"y":1090,
+			"width":880,
+			"height":60
+		},
+		{
+			"id":"cd768c71c0849add",
+			"type":"text",
+			"text":"Paul",
+			"styleAttributes":{"textAlign":"center"},
+			"x":58,
+			"y":905,
+			"width":115,
+			"height":60
+		},
+		{
+			"id":"0856a7b681e182aa",
+			"type":"text",
+			"text":"Peter",
+			"styleAttributes":{"textAlign":"center"},
+			"x":58,
+			"y":1000,
+			"width":115,
+			"height":60
+		},
+		{
+			"id":"0357da409a89a958",
+			"type":"text",
+			"text":"John",
+			"styleAttributes":{"textAlign":"center"},
+			"x":58,
+			"y":1090,
+			"width":115,
+			"height":60
+		},
+		{
+			"id":"90e351d3e256e214",
+			"type":"text",
+			"text":"None of the seven letter of Revelation mention the popular notion that Yahweh was Satan",
+			"styleAttributes":{},
+			"x":58,
+			"y":1200,
+			"width":727,
+			"height":60
+		},
+		{
+			"id":"9f6a869b39ea9ab5",
+			"type":"text",
+			"text":"No curse",
+			"styleAttributes":{},
+			"x":485,
+			"y":2050,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"3cf4165dc65112f9",
+			"type":"text",
+			"text":"Has self awareness",
+			"styleAttributes":{},
+			"x":485,
+			"y":1810,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bc0655992c5368fe",
+			"type":"text",
+			"text":"Access to all the fruit in the garden",
+			"styleAttributes":{},
+			"x":485,
+			"y":1890,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"4e2996e75d5bf6b5",
+			"type":"text",
+			"text":"Biological immortality",
+			"styleAttributes":{},
+			"x":485,
+			"y":1970,
+			"width":210,
+			"height":60
+		},
+		{
+			"id":"f82fbc469bd304e6",
+			"type":"text",
+			"text":"Access to all the trees except the tree of good and evil.",
+			"styleAttributes":{},
+			"x":485,
+			"y":1490,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e2ad9d175db11fc9",
+			"type":"text",
+			"text":"Biological immortality\n(because they had access to the fruit of the tree)",
+			"styleAttributes":{},
+			"x":485,
+			"y":1570,
+			"width":420,
+			"height":60
+		},
+		{
+			"id":"e5e4cc07eb4bae7a",
+			"type":"text",
+			"text":"No curse",
+			"styleAttributes":{},
+			"x":485,
+			"y":1650,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"699eb6057b87cfb5",
+			"type":"text",
+			"text":"Man is in the garden",
+			"styleAttributes":{},
+			"x":485,
+			"y":1730,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"81e5a5364f63e067",
+			"type":"text",
+			"text":"Man is in the garden",
+			"styleAttributes":{},
+			"x":485,
+			"y":1290,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"5bf12aae6a8407a7",
+			"type":"text",
+			"text":"No self-awareness",
+			"styleAttributes":{},
+			"x":485,
+			"y":1370,
+			"width":185,
+			"height":60
+		},
+		{
+			"id":"a3c3ac2b1d48b960",
+			"type":"text",
+			"text":"Why?",
+			"styleAttributes":{},
+			"x":858,
+			"y":1200,
+			"width":95,
+			"height":60
+		},
+		{
+			"id":"619c260451776472",
+			"type":"text",
+			"text":"Yahweh didn't want Adam & Eve to be able to recognize good from evil.",
+			"styleAttributes":{},
+			"x":858,
+			"y":1320,
+			"width":400,
+			"height":60
+		},
+		{
+			"id":"2feaa320ed55c748",
+			"type":"text",
+			"text":"Unlike Yahweh, who could",
+			"styleAttributes":{},
+			"x":858,
+			"y":1400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f7c4be7fd86c4595",
+			"type":"text",
+			"text":"Man is in the garden",
+			"styleAttributes":{},
+			"x":485,
+			"y":2550,
+			"width":210,
+			"height":60
+		},
+		{
+			"id":"6494865362cfbc4b",
+			"type":"text",
+			"text":"Has self-awareness",
+			"styleAttributes":{},
+			"x":485,
+			"y":2630,
+			"width":210,
+			"height":60
+		},
+		{
+			"id":"2d9dd243f2bf0fe4",
+			"type":"text",
+			"text":"Access to all the fruit in the garden",
+			"styleAttributes":{},
+			"x":485,
+			"y":2720,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"4d14e28af826c3b9",
+			"type":"text",
+			"text":"No curse",
+			"styleAttributes":{},
+			"x":485,
+			"y":2880,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"53a447e836eb4fd5",
+			"type":"text",
+			"text":"Biological immortality",
+			"styleAttributes":{},
+			"x":485,
+			"y":2800,
+			"width":210,
+			"height":60
+		},
+		{
+			"id":"3c4dac9e522d0c98",
+			"type":"text",
+			"text":"Summary",
+			"styleAttributes":{},
+			"x":225,
+			"y":3110,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"cae6236069d25cab",
+			"type":"text",
+			"text":"What the snake wanted for man",
+			"styleAttributes":{},
+			"x":485,
+			"y":3010,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ea1e1b0b9160a3c3",
+			"type":"text",
+			"text":"If the snake in the garden is Satan, one is forced to explain why Yeshua in Revelation 22 is restoring mankind back to the state that Satan wanted for them in the garden, AND why the text calls it a restoration.",
+			"styleAttributes":{},
+			"x":318,
+			"y":3350,
+			"width":570,
+			"height":90
+		},
+		{
+			"id":"35bedb01fec6a8c2",
+			"type":"text",
+			"text":"The theological dilemma",
+			"styleAttributes":{},
+			"x":25,
+			"y":3365,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f32d793d83538c97",
+			"type":"text",
+			"text":"Jesus, whom heaven must receive until the time for restoring all the things about which God spoke.",
+			"styleAttributes":{},
+			"x":925,
+			"y":3280,
+			"width":540,
+			"height":60
+		},
+		{
+			"id":"b7ff1de75a974271",
+			"type":"text",
+			"text":"The only **previous state** that Yeshua is **restoring**, is the one the **snake created** before Yahweh cursed them.",
+			"styleAttributes":{},
+			"x":925,
+			"y":3365,
+			"width":540,
+			"height":60
+		},
+		{
+			"id":"c25f3594377ed5aa",
+			"type":"text",
+			"text":"This is an obvious theological dilemma that you've never been taught, because it's immediately obvious that the snake simply can't be Satan, and the entire Christian narrative will collapse as its foundation of original sin and the snake being Satan, evaporates.",
+			"styleAttributes":{},
+			"x":925,
+			"y":3455,
+			"width":540,
+			"height":120
+		},
+		{
+			"id":"55f37c2a17399048",
+			"type":"text",
+			"text":"Reframing the context",
+			"styleAttributes":{},
+			"x":25,
+			"y":3870,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"4818c8176b2c12aa",
+			"type":"text",
+			"text":"Bible",
+			"styleAttributes":{"textAlign":"center"},
+			"x":318,
+			"y":3960,
+			"width":85,
+			"height":60
+		},
+		{
+			"id":"f50624cee9163ff8",
+			"type":"text",
+			"text":"Christianity (says)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":315,
+			"y":3690,
+			"width":170,
+			"height":60
+		},
+		{
+			"id":"49c2cf48cd0135da",
+			"type":"text",
+			"text":"Snake",
+			"styleAttributes":{},
+			"x":535,
+			"y":3770,
+			"width":90,
+			"height":60
+		},
+		{
+			"id":"3cce4b0faba3f000",
+			"type":"text",
+			"text":"(that's) God in the garden",
+			"styleAttributes":{},
+			"x":535,
+			"y":3630,
+			"width":145,
+			"height":60
+		},
+		{
+			"id":"0fd1608628f42521",
+			"type":"text",
+			"text":"Snake",
+			"styleAttributes":{},
+			"x":535,
+			"y":4050,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"59fda5b11b316f14",
+			"type":"text",
+			"text":"Yahweh",
+			"styleAttributes":{},
+			"x":535,
+			"y":3850,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"47c78bd952cff93b",
+			"type":"text",
+			"text":"Yeshua, the creator of mankind",
+			"styleAttributes":{},
+			"x":705,
+			"y":4050,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"960f382cc292707e",
+			"type":"text",
+			"text":"Created the desired state for mankind that Yahweh then destroys.  Yeshua then restores us to that state again in Revelation 22.",
+			"styleAttributes":{},
+			"x":1045,
+			"y":4030,
+			"width":420,
+			"height":100
+		},
+		{
+			"id":"8fd6d27a9447122e",
+			"type":"text",
+			"text":"Satan, a fallen angel",
+			"styleAttributes":{},
+			"x":705,
+			"y":3770,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"e6f6363df5f3af89",
+			"type":"text",
+			"text":"God the creator of mankind",
+			"styleAttributes":{},
+			"x":705,
+			"y":3630,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"91b4e9d34996e6a9",
+			"type":"text",
+			"text":"Ruler of the Garden of Eden",
+			"styleAttributes":{},
+			"x":705,
+			"y":3850,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"06213c9775b69ced",
+			"type":"text",
+			"text":"**God of this world** according to the entirety of Torah.",
+			"styleAttributes":{},
+			"x":705,
+			"y":3930,
+			"width":300,
+			"height":60
+		},
+		{
+			"id":"db939768b19ab8cf",
+			"type":"text",
+			"text":"But not THE God.",
+			"styleAttributes":{},
+			"x":1045,
+			"y":3930,
+			"width":170,
+			"height":60
+		},
+		{
+			"id":"8711de89da82cae5",
+			"type":"text",
+			"text":"Revalation 2:12-13",
+			"styleAttributes":{},
+			"x":1240,
+			"y":4215,
+			"width":185,
 			"height":60
 		}
 	],
