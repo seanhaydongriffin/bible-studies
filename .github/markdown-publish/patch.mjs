@@ -75,8 +75,9 @@ patch(
 );
 
 // 3. Cards: grow any text card whose content doesn't fit, so all text shows
-//    without resizing by hand. Keeps the card's top edge where it was (node
-//    positions are centres). Waits until every node is in the DOM and its
+//    without resizing by hand. Grows equally up and down (node positions are
+//    centres, so the position stays put): the arrows attach to the middle of
+//    each side, so they keep the alignment set up in Obsidian. Waits until every node is in the DOM and its
 //    images have loaded (a big board takes more than a frame or two to
 //    render), then re-checks a couple of times: a taller card gets slightly
 //    taller spacers (see custom.css), which can need a few more pixels.
@@ -148,12 +149,7 @@ patch(
         if (h === undefined || !('position' in n)) {
           return n;
         }
-        const old = n.data['height'] as number;
-        return {
-          ...n,
-          position: { x: n.position.x, y: n.position.y + (h - old) / 2 },
-          data: { ...n.data, height: h },
-        };
+        return { ...n, data: { ...n.data, height: h } };
       }),
     });
     return true;

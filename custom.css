@@ -1,15 +1,17 @@
 /* Appended to the site's global stylesheet at build time
    (see .github/markdown-publish/patch.mjs). */
 
-/* Canvas text cards: lay out text exactly as Obsidian does, so a card sized to
-   fit in Obsidian fits here too. Obsidian pads 16px left/right and puts a
-   flexible spacer above and below the text: at most 16px, at least
-   10% of the card height - 3px. (ng-draw-flow.canvas outranks the card's own
-   component styles.) */
+/* Canvas text cards: lay out text as Obsidian does, so a card sized to fit in
+   Obsidian fits here too. Obsidian pads 16px left/right and puts a flexible
+   spacer above and below the text: at most 16px, at least 10% of the card
+   height - 3px. Sides are 15px here, not 16px: browsers measure the same line
+   a fraction of a pixel differently, and 2px of slack stops a line that just
+   fits in Obsidian from wrapping here. (ng-draw-flow.canvas outranks the
+   card's own component styles.) */
 ng-draw-flow.canvas app-markdown-node {
   display: flex;
   flex-direction: column;
-  padding: 0 16px;
+  padding: 0 15px;
   container-type: size;
 }
 
