@@ -42,3 +42,9 @@ app-markdown-node .content img {
   max-width: 100%;
   height: auto;
 }
+
+/* No dotted grid behind canvases. (!important: the dots come from the canvas
+   view's own component styles, which outrank this selector.) */
+ng-draw-flow.canvas {
+  background-image: none !important;
+}
