@@ -1,0 +1,6 @@
+/* Canvas text cards: Obsidian reserves an always-empty scrollbar gutter on the
+   right of each card, making the right margin wider than the left. Drop it so
+   both sides get the same 16px padding. */
+.canvas-node-content.markdown-embed > .markdown-embed-content > .markdown-preview-view {
+  scrollbar-gutter: auto;
+}

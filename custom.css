@@ -1,12 +1,42 @@
 /* Appended to the site's global stylesheet at build time
    (see .github/markdown-publish/patch.mjs). */
 
-/* Canvas text cards: drop the outer paragraph margins, as Obsidian does, so
-   short cards fit their saved size. */
+/* Canvas text cards: lay out text exactly as Obsidian does, so a card sized to
+   fit in Obsidian fits here too. Obsidian pads 16px left/right and puts a
+   flexible spacer above and below the text: at most 16px, at least
+   10% of the card height - 3px. (ng-draw-flow.canvas outranks the card's own
+   component styles.) */
+ng-draw-flow.canvas app-markdown-node {
+  display: flex;
+  flex-direction: column;
+  padding: 0 16px;
+  container-type: size;
+}
+
+ng-draw-flow.canvas app-markdown-node::before,
+ng-draw-flow.canvas app-markdown-node::after {
+  content: '';
+  display: block;
+  flex: 1 1 0;
+  min-height: min(calc(10cqh - 3px), 16px);
+  max-height: 16px;
+}
+
+ng-draw-flow.canvas app-markdown-node > .content {
+  flex: 1 0 0;
+}
+
+/* Drop the outer paragraph margins, as Obsidian does. */
 app-markdown-node .content > :first-child {
   margin-top: 0;
 }
 
 app-markdown-node .content > :last-child {
   margin-bottom: 0;
+}
+
+/* Pasted images scale to the card's width, as in Obsidian. */
+app-markdown-node .content img {
+  max-width: 100%;
+  height: auto;
 }

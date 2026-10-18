@@ -75,8 +75,11 @@ patch(
 );
 
 // 3. Cards: grow any text card whose content doesn't fit, so all text shows
-//    without resizing by hand. Runs once per canvas after fonts load; keeps the
-//    card's top edge where it was (node positions are centres).
+//    without resizing by hand. Keeps the card's top edge where it was (node
+//    positions are centres). Waits until every node is in the DOM and its
+//    images have loaded (a big board takes more than a frame or two to
+//    render), then re-checks a couple of times: a taller card gets slightly
+//    taller spacers (see custom.css), which can need a few more pixels.
 patch(
   'src/app/views/canvas-view.ts',
   `      if (model) {
@@ -85,9 +88,7 @@ patch(
   `      if (model) {
         this.ctrl.setValue(model);
         if (this.isBrowser) {
-          void document.fonts.ready.then(() =>
-            requestAnimationFrame(() => requestAnimationFrame(() => this.growToFit())),
-          );
+          void document.fonts.ready.then(() => this.growWhenRendered(model.nodes.length));
         }
       }`,
   'schedule card auto-grow',
@@ -95,10 +96,37 @@ patch(
 patch(
   'src/app/views/canvas-view.ts',
   '  private fit(): void {',
-  `  private growToFit(): void {
+  `  private growWhenRendered(expected: number, frames = 0): void {
+    const root = this.flowEl()?.nativeElement as HTMLElement | undefined;
+    const rendered = root?.querySelectorAll('[data-draw-flow-node]').length ?? 0;
+    if (!root || rendered < expected) {
+      // Give up after ~10s rather than polling forever.
+      if (frames < 600) {
+        requestAnimationFrame(() => this.growWhenRendered(expected, frames + 1));
+      }
+      return;
+    }
+    const pending = [...root.querySelectorAll<HTMLImageElement>('app-markdown-node img')]
+      .filter((img) => !img.complete)
+      .map((img) => new Promise((done) => {
+        img.addEventListener('load', done, { once: true });
+        img.addEventListener('error', done, { once: true });
+      }));
+    const pass = (left: number): void => {
+      requestAnimationFrame(() => {
+        if (this.growToFit() && left > 1) {
+          pass(left - 1);
+        }
+      });
+    };
+    void Promise.all(pending).then(() => pass(3));
+  }
+
+  /** Grows overflowing text cards; returns whether any card grew. */
+  private growToFit(): boolean {
     const root = this.flowEl()?.nativeElement as HTMLElement | undefined;
     if (!root) {
-      return;
+      return false;
     }
     const heights = new Map<string, number>();
     root.querySelectorAll<HTMLElement>('app-markdown-node').forEach((card) => {
@@ -110,7 +138,7 @@ patch(
       }
     });
     if (!heights.size) {
-      return;
+      return false;
     }
     const value = this.ctrl.value;
     this.ctrl.setValue({
@@ -128,6 +156,7 @@ patch(
         };
       }),
     });
+    return true;
   }
 
   private fit(): void {`,
