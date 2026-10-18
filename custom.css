@@ -13,6 +13,9 @@ ng-draw-flow.canvas app-markdown-node {
   flex-direction: column;
   padding: 0 15px;
   container-type: size;
+  /* Never show a scrollbar: it would push the right-side arrow anchor left
+     and bend that card's arrows. Cards that overflow are grown to fit. */
+  overflow: hidden;
 }
 
 ng-draw-flow.canvas app-markdown-node::before,

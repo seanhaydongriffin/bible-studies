@@ -77,10 +77,11 @@ patch(
 // 3. Cards: grow any text card whose content doesn't fit, so all text shows
 //    without resizing by hand. Grows equally up and down (node positions are
 //    centres, so the position stays put): the arrows attach to the middle of
-//    each side, so they keep the alignment set up in Obsidian. Waits until every node is in the DOM and its
-//    images have loaded (a big board takes more than a frame or two to
-//    render), then re-checks a couple of times: a taller card gets slightly
-//    taller spacers (see custom.css), which can need a few more pixels.
+//    each side, so they keep the alignment set up in Obsidian. Waits until
+//    every node is in the DOM and its images have loaded (a big board takes
+//    more than a frame or two to render), then repeats until nothing
+//    overflows: a taller card gets slightly taller spacers (see custom.css),
+//    so one pass can leave a pixel or so still overflowing.
 patch(
   'src/app/views/canvas-view.ts',
   `      if (model) {
@@ -120,7 +121,7 @@ patch(
         }
       });
     };
-    void Promise.all(pending).then(() => pass(3));
+    void Promise.all(pending).then(() => pass(10));
   }
 
   /** Grows overflowing text cards; returns whether any card grew. */
@@ -133,9 +134,8 @@ patch(
     root.querySelectorAll<HTMLElement>('app-markdown-node').forEach((card) => {
       const id = card.closest<HTMLElement>('[data-draw-flow-node]')?.dataset['nodeId'];
       const border = card.offsetHeight - card.clientHeight;
-      const needed = Math.ceil(card.scrollHeight + border);
-      if (id && needed > card.offsetHeight + 1) {
-        heights.set(id, needed);
+      if (id && card.scrollHeight > card.clientHeight) {
+        heights.set(id, Math.ceil(card.scrollHeight + border));
       }
     });
     if (!heights.size) {
