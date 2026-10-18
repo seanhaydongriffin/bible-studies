@@ -1,2 +1,5 @@
 dist/
 node_modules/
+
+# Obsidian per-device UI state
+vault/.obsidian/workspace*.json

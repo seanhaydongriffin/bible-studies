@@ -784,7 +784,7 @@
 		{
 			"id":"87cd28133348261d",
 			"type":"text",
-			"text":"That very day Yahweh spoke to Moses, \"Go up this mountain ... which is in the land of Moab, ... and view the land of Canaan, which I am giving to the people of Israel for a possession, and die on the mountain which you go up ... because you broke faith with me in the midst of the people of Israel at the waters of Meribah-kadesh, in the wilderness of Zin, and because you did not treat me as holy in the midst of the people of Israel.\n\nFor you shall see the land before you, but you shall not go there, into the land that i am giving to the people of Israel.\"",
+			"text":"That very day Yahweh spoke to Moses, \"Go up this mountain ... which is in the land of Moab, ... and view the land of Canaan, which I am giving to the people of Israel for a possession, and **die on the mountain which you go up** ... because you broke faith with me in the midst of the people of Israel at the waters of Meribah-kadesh, in the wilderness of Zin, and because you did not treat me as holy in the midst of the people of Israel.\n\nFor you shall see the land before you, but you shall not go there, into the land that I am giving to the people of Israel.\"",
 			"styleAttributes":{},
 			"x":60,
 			"y":2130,
@@ -814,7 +814,7 @@
 		{
 			"id":"6816743b5dac566b",
 			"type":"text",
-			"text":"Then Moses went up from the plains of Moab to Mount Nebo.  And Yahweh showed him all the land. ... And Yahweh said to him, \"This is the land of which I swore to Abraham, to Isaac, and to Jacob, 'I will give it to your offspring.' I have let you see it with your eyes, but you shall not go over there.\"\n\nSo Moses the servant of Yahweh died there in the land of Moab, according to the will of Yahweh, and he buried him in the valley in the land of Moab, but no one knows the place of his burial to this day. Moses was 120 years old when he died. His eye was undimmed, and his vigor unabated.",
+			"text":"Then Moses went up from the plains of Moab to Mount Nebo.  And Yahweh showed him all the land. ... And Yahweh said to him, \"This is the land of which I swore to Abraham, to Isaac, and to Jacob, 'I will give it to your offspring.' I have let you see it with your eyes, but you shall not go over there.\"\n\nSo **Moses the servant of Yahweh died there in the land of Moab**, according to the will of Yahweh, and **he buried him in the valley in the land of Moab**, but no one knows the place of his burial to this day. Moses was 120 years old when he died. His eye was undimmed, and his vigor unabated.",
 			"styleAttributes":{},
 			"x":60,
 			"y":2320,
@@ -839,16 +839,6 @@
 			"x":60,
 			"y":2560,
 			"width":900,
-			"height":70
-		},
-		{
-			"id":"56d9a3eaf463f432",
-			"type":"text",
-			"text":"Deuteronomy 34:10",
-			"styleAttributes":{},
-			"x":1020,
-			"y":2565,
-			"width":260,
 			"height":60
 		},
 		{
@@ -894,7 +884,7 @@
 		{
 			"id":"cc71a2dc5b6c3d35",
 			"type":"text",
-			"text":"The Pharisees asked him, \"Where is your father?\"\n\nJesus replied, \"You don't know me or my Father. If you knew me you would also know my Father.\"",
+			"text":"The Pharisees asked him, \"Where is your father?\"\n\nJesus replied, \"**You don't know me or my Father**. If you knew me you would also know my Father.\"",
 			"styleAttributes":{},
 			"x":210,
 			"y":2880,
@@ -914,7 +904,7 @@
 		{
 			"id":"3dbd3516d97ac86d",
 			"type":"text",
-			"text":"\"You're doing what your father does.\"\n\nThe Jews said to Jesus, \"We're not illegitimate children. God is our only Father.\"\n\nJesus told them, \"If God were your Father, you would love me. After all, I'm here, and I came from God. I didn't come on my own. Instead, God sent me. Why don't you understand the language I use? Is it because you can't understand the words I use? You come from your father, the devil, and you desire to do what your father wants you to do. The devil was a murderer from the beginning. He has never been truthful. He doesn't know what the truth is. Whenever he tells a lie, he's doing what comes naturally to him. He's a liar and the father of lies.",
+			"text":"\"You're doing what your father does.\"\n\nThe Jews said to Jesus, \"We're not illegitimate children. God is our only Father.\"\n\nJesus told them, \"If God were your Father, you would love me. After all, I'm here, and I came from God. I didn't come on my own. Instead, God sent me. Why don't you understand the language I use? Is it because you can't understand the words I use? **You come from your father, the devil**, and you desire to do what your father wants you to do. **The devil was a murderer from the beginning**. He has never been truthful. He doesn't know what the truth is. Whenever he tells a lie, he's doing what comes naturally to him. **He's a liar and the father of lies**.",
 			"styleAttributes":{},
 			"x":210,
 			"y":3000,
@@ -954,7 +944,7 @@
 		{
 			"id":"9e4b5b09b926f4f0",
 			"type":"text",
-			"text":"Now it came to pass, when the time had come for Him to be received up, that He steadfastly set His face to go to Jerusalem, and sent messengers before His face. And as they went, they entered a village of the Samaritans, to prepare for Him. But they did not receive Him, because His face was set for the journey to Jerusalem. And when His disciple James and John saw this, they said, \"Lord, do You want us to command fire to come down from heaven and consume them, just as Elijah did?\"\nBut He turned and rebuked them, and said, \"You do not know what manner of spirit you are of. For the Son of Man did not come to destroy men's lives but to save them.\" And they went to another village.",
+			"text":"Now it came to pass, when the time had come for Him to be received up, that He steadfastly set His face to go to Jerusalem, and sent messengers before His face. And as they went, they entered a village of the Samaritans, to prepare for Him. But they did not receive Him, because His face was set for the journey to Jerusalem. And when His disciple James and John saw this, they said, \"Lord, do You want us to command fire to come down from heaven and consume them, just as Elijah did?\"\nBut He turned and rebuked them, and said, \"**You do not know what manner of spirit you are of**. For the Son of Man did not come to destroy men's lives but to save them.\" And they went to another village.",
 			"styleAttributes":{},
 			"x":210,
 			"y":3280,
@@ -984,7 +974,7 @@
 		{
 			"id":"63803ff9727ac2f4",
 			"type":"text",
-			"text":"\"This world is being judged now. The ruler of this world will be thrown out now. When I have been lifted up from the earth, I will draw all people toward me.\" By saying this, he indicated how he was going to die.",
+			"text":"\"This world is being judged now. **The ruler of this world will be thrown out now**. When I have been lifted up from the earth, I will draw all people toward me.\" By saying this, he indicated how he was going to die.",
 			"styleAttributes":{},
 			"x":210,
 			"y":3540,
@@ -1004,7 +994,7 @@
 		{
 			"id":"89edd59435e9630f",
 			"type":"text",
-			"text":"The rule of this world has no power over me. But he's coming, so I won't talk with you much longer.",
+			"text":"**The rule of this world has no power over me**. But he's coming, so I won't talk with you much longer.",
 			"styleAttributes":{},
 			"x":210,
 			"y":3680,
@@ -1024,7 +1014,7 @@
 		{
 			"id":"ed19dbb66b81e678",
 			"type":"text",
-			"text":"If Satan forces Satan out, he is divided against himself.\nHow, then, can his kingdom last?",
+			"text":"If Satan forces Satan out, **he is divided against himself**.\nHow, then, can his kingdom last?",
 			"styleAttributes":{},
 			"x":210,
 			"y":3760,
@@ -1064,7 +1054,7 @@
 		{
 			"id":"fdbd433bfb289776",
 			"type":"text",
-			"text":"All who came before me (Yeshua) are thieves and robbers.",
+			"text":"**All who came before me** (Yeshua) **are thieves and robbers**.",
 			"styleAttributes":{},
 			"x":210,
 			"y":3860,
@@ -1108,6 +1098,16 @@
 			"styleAttributes":{},
 			"x":1020,
 			"y":3960,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"56d9a3eaf463f432",
+			"type":"text",
+			"text":"Deuteronomy 34:10",
+			"styleAttributes":{},
+			"x":1020,
+			"y":2560,
 			"width":260,
 			"height":60
 		}
