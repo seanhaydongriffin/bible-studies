@@ -168,7 +168,19 @@ patch(
   'markdown line breaks',
 );
 
-// 5. Append the repo's custom CSS to the global stylesheet.
+// 5. Always check content (notes, canvases, the page list) for changes.
+//    GitHub Pages lets browsers reuse files for 10 minutes, and these JSON
+//    files are fetched by script, which a hard refresh doesn't always
+//    re-fetch: a just-published canvas could show its old version. no-cache
+//    asks GitHub each time; an unchanged file costs a tiny "not modified".
+patch(
+  'src/app/content/content.service.ts',
+  'const res = await fetch(url);',
+  "const res = await fetch(url, { cache: 'no-cache' });",
+  'revalidate content on every load',
+);
+
+// 6. Append the repo's custom CSS to the global stylesheet.
 if (customCss) {
   const css = readFileSync(customCss, 'utf8');
   const styles = join(pkgDir, 'src/styles.scss');
