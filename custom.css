@@ -58,3 +58,11 @@ ng-draw-flow.canvas {
 ng-draw-flow.canvas .df-resize {
   display: none !important;
 }
+
+/* Canvas text is always 16px, as in Obsidian. The site enlarges text to
+   17.5px on windows 1440px or wider, which suits notes but makes canvas cards
+   wrap more than they do in Obsidian. */
+ng-draw-flow.canvas {
+  --font-text-size: 16px;
+  font-size: 16px;
+}
