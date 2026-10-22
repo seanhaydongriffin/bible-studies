@@ -688,143 +688,53 @@
 			"height":60
 		},
 		{
-			"id":"7b4a39327a4f6973",
+			"id":"675c7e5ffeb965e4",
 			"type":"text",
-			"text":"The MAIN story of the Bible that you've never heard",
+			"text":"The LORD God took the man and put him in the garden of Eden to work it and keep it. And the LORD God commanded the man, saying, \"You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.\"",
 			"styleAttributes":{},
-			"x":2560,
-			"y":-460,
-			"width":280,
-			"height":55
-		},
-		{
-			"id":"d681aa4d986855be",
-			"type":"text",
-			"text":"It's peculiar that the story that (brackets) the entire human condition in the Biblical text is completely unknown to the vast majority of Christians. How is that even possible? How is the story that provides context to everything else never preached in any Church? Never published in any of the thousands of new Christian books released each year. Hardly mentioned at all in nearly 2000 years of theological discourse?",
-			"styleAttributes":{},
-			"x":2880,
-			"y":-800,
-			"width":740,
-			"height":140
-		},
-		{
-			"id":"6ba84fda749efa28",
-			"type":"text",
-			"text":"Chances are excellent you've never heard anything I'm about to show you. It's vital that you consider that deeply. If one of the single most important contexts of humanity that exists plainly in the Biblical text is not spoken of, you must ask yourself, \"WHY?\" Why has one of the single most important stories been all but erased?",
-			"styleAttributes":{},
-			"x":3660,
-			"y":-810,
-			"width":600,
-			"height":160
-		},
-		{
-			"id":"24ad25d33691756d",
-			"type":"text",
-			"text":"And the answer is simple. If this story was known, the identity of the snake in the garden changes. And that, changes EVERYTHING.",
-			"styleAttributes":{},
-			"x":4300,
-			"y":-785,
-			"width":420,
-			"height":110
-		},
-		{
-			"id":"d5e4c0c94b40234d",
-			"type":"text",
-			"text":"Roman Universalism / Christianity calls this event the Fall of Man, or the Original Sin.\n\nAccording to Christianity, the story goes like this...",
-			"styleAttributes":{},
-			"x":2880,
-			"y":-600,
-			"width":480,
+			"x":3100,
+			"y":200,
+			"width":640,
 			"height":120
 		},
 		{
-			"id":"7f916b02b3628163",
+			"id":"1da5ccb2f38bfc24",
 			"type":"text",
-			"text":"Adam & Eve lived in a garden with God. Satan as a snake comes along and tempts Eve to eat fruit from a tree God had specifically told them not to eat from. Eve eats the fruit, committing the first sin against God, leading to the introduction of death, and the fall of mankind into a sinful state.",
+			"text":"Genesis 2:15-17",
 			"styleAttributes":{},
-			"x":3400,
-			"y":-614,
-			"width":500,
-			"height":148
+			"x":3780,
+			"y":225,
+			"width":160,
+			"height":70
 		},
 		{
-			"id":"5841dcaa487ce654",
+			"id":"e5e17a457edd3e51",
 			"type":"text",
-			"text":"We're going to dissect the story and in the process discover that the text simply doesn't say what Roman Universalism / Christianity claims it says at all, and that actually the story is quite different and incredibly more powerful than you've ever been told.",
+			"text":"Then we have the incident with the snake",
 			"styleAttributes":{},
-			"x":3940,
-			"y":-610,
-			"width":440,
-			"height":140
-		},
-		{
-			"id":"d96d893a439296ab",
-			"type":"text",
-			"text":"You need to think for yourself. Your pastor will tell you that everything I am saying here is wrong. So show it to them and ask them to resolve the theological dilemma. Be ready for some very inventive responses.",
-			"styleAttributes":{},
-			"x":2880,
-			"y":-440,
-			"width":480,
-			"height":120
-		},
-		{
-			"id":"db5fd5c440e3d8da",
-			"type":"text",
-			"text":"Roman Universalism / Christianity has done everything it can to conceal the truth from us. Even turning Yeshua into Satan.",
-			"styleAttributes":{},
-			"x":3400,
-			"y":-440,
-			"width":460,
-			"height":120
-		},
-		{
-			"id":"6bbc494c25fac423",
-			"type":"text",
-			"text":"The story that (BRACKETS) every other story of the entire Bible.",
-			"styleAttributes":{},
-			"x":2560,
-			"y":-160,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"a1c427ea2efcb567",
-			"type":"text",
-			"text":"In the beginning we have God in the garden with Adam and Eve.",
-			"styleAttributes":{},
-			"x":2880,
-			"y":-260,
+			"x":3100,
+			"y":340,
 			"width":340,
-			"height":80
-		},
-		{
-			"id":"bdf1b95031d71f87",
-			"type":"text",
-			"text":"But what many Christians have never been told or noticed, is that the entire story of the Bible is about restoration back to a garden.",
-			"styleAttributes":{},
-			"x":3250,
-			"y":-270,
-			"width":370,
-			"height":100
-		},
-		{
-			"id":"d3356a493a990ca7",
-			"type":"text",
-			"text":"The story starts in a garden",
-			"styleAttributes":{},
-			"x":2880,
-			"y":-160,
-			"width":260,
 			"height":60
 		},
 		{
-			"id":"3e1dab0339377d75",
+			"id":"92cd031a499b2e5b",
 			"type":"text",
-			"text":"It ends in a garden",
+			"text":"Genesis 2-3",
 			"styleAttributes":{},
-			"x":3180,
-			"y":-160,
-			"width":260,
+			"x":2920,
+			"y":370,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"0ae69534b0af22c6",
+			"type":"text",
+			"text":"Adam and Eve eat the fruit they were told not to eat from",
+			"styleAttributes":{},
+			"x":3100,
+			"y":420,
+			"width":460,
 			"height":60
 		},
 		{
@@ -832,18 +742,8 @@
 			"type":"text",
 			"text":"WE start in a garden",
 			"styleAttributes":{},
-			"x":2880,
-			"y":-80,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d889ec3541ee80a4",
-			"type":"text",
-			"text":"WE end up back in a garden",
-			"styleAttributes":{},
-			"x":3180,
-			"y":-80,
+			"x":2920,
+			"y":-320,
 			"width":260,
 			"height":60
 		},
@@ -852,18 +752,8 @@
 			"type":"text",
 			"text":"What's so special about the garden?",
 			"styleAttributes":{},
-			"x":2880,
-			"y":0,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"6772086333e2d3a2",
-			"type":"text",
-			"text":"What's in the garden?",
-			"styleAttributes":{},
-			"x":3180,
-			"y":0,
+			"x":2920,
+			"y":-240,
 			"width":260,
 			"height":60
 		},
@@ -872,18 +762,8 @@
 			"type":"text",
 			"text":"The garden grows trees",
 			"styleAttributes":{},
-			"x":2880,
-			"y":80,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"889f0e909898c669",
-			"type":"text",
-			"text":"Very very special trees",
-			"styleAttributes":{},
-			"x":3180,
-			"y":80,
+			"x":2920,
+			"y":-160,
 			"width":260,
 			"height":60
 		},
@@ -892,8 +772,48 @@
 			"type":"text",
 			"text":"And one of these trees is the tree of life",
 			"styleAttributes":{},
-			"x":2880,
-			"y":160,
+			"x":2920,
+			"y":-80,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9e0936b74ac4561e",
+			"type":"text",
+			"text":"Revelation 22",
+			"styleAttributes":{},
+			"x":2920,
+			"y":1000,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"5951706ad6bdacd9",
+			"type":"text",
+			"text":"The focus here is WHAT?",
+			"styleAttributes":{},
+			"x":2920,
+			"y":1220,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"6772086333e2d3a2",
+			"type":"text",
+			"text":"What's in the garden?",
+			"styleAttributes":{},
+			"x":3220,
+			"y":-240,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"889f0e909898c669",
+			"type":"text",
+			"text":"Very very special trees",
+			"styleAttributes":{},
+			"x":3220,
+			"y":-160,
 			"width":260,
 			"height":60
 		},
@@ -902,40 +822,400 @@
 			"type":"text",
 			"text":"The entire story of humankind is about our access to **the fruit of the tree of life**",
 			"styleAttributes":{},
-			"x":3180,
-			"y":150,
+			"x":3220,
+			"y":-90,
 			"width":320,
 			"height":80
+		},
+		{
+			"id":"89cf854def0357f1",
+			"type":"text",
+			"text":"And the LORD God planted a garden in Eden, in the east, and there he put the man whom he had formed. And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.",
+			"styleAttributes":{},
+			"x":3100,
+			"y":20,
+			"width":640,
+			"height":140
+		},
+		{
+			"id":"8490a8672b2d9f1b",
+			"type":"text",
+			"text":"Genesis 2:8-9",
+			"styleAttributes":{},
+			"x":3780,
+			"y":60,
+			"width":160,
+			"height":60
+		},
+		{
+			"id":"3e1dab0339377d75",
+			"type":"text",
+			"text":"It ends in a garden",
+			"styleAttributes":{},
+			"x":3220,
+			"y":-400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d889ec3541ee80a4",
+			"type":"text",
+			"text":"WE end up back in a garden",
+			"styleAttributes":{},
+			"x":3220,
+			"y":-320,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bdf1b95031d71f87",
+			"type":"text",
+			"text":"But what many Christians have never been told or noticed, is that the entire story of the Bible is about restoration back to a garden.",
+			"styleAttributes":{},
+			"x":3290,
+			"y":-510,
+			"width":370,
+			"height":100
+		},
+		{
+			"id":"db5fd5c440e3d8da",
+			"type":"text",
+			"text":"Roman Universalism / Christianity has done everything it can to conceal the truth from us. Even turning Yeshua into Satan.",
+			"styleAttributes":{},
+			"x":3440,
+			"y":-680,
+			"width":460,
+			"height":120
+		},
+		{
+			"id":"33b468b4de479bd8",
+			"type":"text",
+			"text":"Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations. No longer will there be any curse.",
+			"styleAttributes":{},
+			"x":3100,
+			"y":760,
+			"width":640,
+			"height":140
+		},
+		{
+			"id":"b12c188df6fc69af",
+			"type":"text",
+			"text":"Revelation 22:1-3",
+			"styleAttributes":{},
+			"x":3780,
+			"y":800,
+			"width":180,
+			"height":60
+		},
+		{
+			"id":"4294cbb57bf2e04f",
+			"type":"text",
+			"text":"we are back in the garden",
+			"styleAttributes":{},
+			"x":3100,
+			"y":920,
+			"width":230,
+			"height":60
+		},
+		{
+			"id":"97aaf9eb43a69a53",
+			"type":"text",
+			"text":"we have access to the fruit of the tree of life",
+			"styleAttributes":{},
+			"x":3100,
+			"y":1000,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"f536f57ca02086e2",
+			"type":"text",
+			"text":"mankind has immortality",
+			"styleAttributes":{},
+			"x":3520,
+			"y":1000,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"475370a2f4d383c0",
+			"type":"text",
+			"text":"Relationship with God is restored",
+			"styleAttributes":{},
+			"x":3100,
+			"y":1080,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"9caaaf39c3412254",
+			"type":"text",
+			"text":"The restoration of all things",
+			"styleAttributes":{},
+			"x":3440,
+			"y":1080,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c431d5fdee8fb287",
+			"type":"text",
+			"text":"Acts 3:21",
+			"styleAttributes":{},
+			"x":3780,
+			"y":1080,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"6102a58c1f6261d5",
+			"type":"text",
+			"text":"Mankind's access to the fruit of the tree of life / immortality",
+			"styleAttributes":{},
+			"x":3200,
+			"y":1220,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"793ce669001bd801",
+			"type":"text",
+			"text":"Now this is incredible. This is THE story that (BRACKETS) every other story. It should be THE central message of Christianity, but instead it's ignored. But there is SO MUCH more to this story.",
+			"styleAttributes":{},
+			"x":2920,
+			"y":1320,
+			"width":460,
+			"height":120
+		},
+		{
+			"id":"390717a22a497a06",
+			"type":"text",
+			"text":"And there's a reason you've never been told this, or the rest of the story.",
+			"styleAttributes":{},
+			"x":3440,
+			"y":1300,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"76002633ce3990ae",
+			"type":"text",
+			"text":"Buckle your seatbelts...",
+			"styleAttributes":{},
+			"x":3440,
+			"y":1380,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"1f5f112d0a395929",
+			"type":"text",
+			"text":"God curses the snake, Adam, and Eve",
+			"styleAttributes":{},
+			"x":3100,
+			"y":500,
+			"width":320,
+			"height":60
 		},
 		{
 			"id":"ae6333009b69417a",
 			"type":"text",
 			"text":"The BEGINNING and the END",
 			"styleAttributes":{},
-			"x":2560,
-			"y":500,
+			"x":2600,
+			"y":520,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"92cd031a499b2e5b",
+			"id":"1ad35c9b3fdad532",
 			"type":"text",
-			"text":"Genesis 2-3",
+			"text":"Now they are outside the garden",
 			"styleAttributes":{},
-			"x":2880,
-			"y":340,
-			"width":130,
+			"x":3100,
+			"y":580,
+			"width":280,
 			"height":60
 		},
 		{
-			"id":"89cf854def0357f1",
+			"id":"b18caef32130dead",
+			"type":"text",
+			"text":"Deprived of the fruit of the tree of life",
+			"styleAttributes":{},
+			"x":3100,
+			"y":660,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"61ec07795698e0c6",
+			"type":"text",
+			"text":"Mankind dies",
+			"styleAttributes":{},
+			"x":3460,
+			"y":660,
+			"width":160,
+			"height":60
+		},
+		{
+			"id":"7b4a39327a4f6973",
+			"type":"text",
+			"text":"The MAIN story of the Bible that you've never heard",
+			"styleAttributes":{},
+			"x":2600,
+			"y":-700,
+			"width":280,
+			"height":55
+		},
+		{
+			"id":"d96d893a439296ab",
+			"type":"text",
+			"text":"You need to think for yourself. Your pastor will tell you that everything I am saying here is wrong. So show it to them and ask them to resolve the theological dilemma. Be ready for some very inventive responses.",
+			"styleAttributes":{},
+			"x":2920,
+			"y":-680,
+			"width":480,
+			"height":120
+		},
+		{
+			"id":"a1c427ea2efcb567",
+			"type":"text",
+			"text":"In the beginning we have God in the garden with Adam and Eve.",
+			"styleAttributes":{},
+			"x":2920,
+			"y":-500,
+			"width":340,
+			"height":80
+		},
+		{
+			"id":"6bbc494c25fac423",
+			"type":"text",
+			"text":"The story that (BRACKETS) every other story of the entire Bible.",
+			"styleAttributes":{},
+			"x":2600,
+			"y":-400,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"d3356a493a990ca7",
+			"type":"text",
+			"text":"The story starts in a garden",
+			"styleAttributes":{},
+			"x":2920,
+			"y":-400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d681aa4d986855be",
+			"type":"text",
+			"text":"It's peculiar that the story that (brackets) the entire human condition in the Biblical text is completely unknown to the vast majority of Christians. How is that even possible? How is the story that provides context to everything else never preached in any Church? Never published in any of the thousands of new Christian books released each year. Hardly mentioned at all in nearly 2000 years of theological discourse?",
+			"styleAttributes":{},
+			"x":2920,
+			"y":-1040,
+			"width":740,
+			"height":140
+		},
+		{
+			"id":"6ba84fda749efa28",
+			"type":"text",
+			"text":"Chances are excellent you've never heard anything I'm about to show you. It's vital that you consider that deeply. If one of the single most important contexts of humanity that exists plainly in the Biblical text is not spoken of, you must ask yourself, \"WHY?\" Why has one of the single most important stories been all but erased?",
+			"styleAttributes":{},
+			"x":3700,
+			"y":-1050,
+			"width":600,
+			"height":160
+		},
+		{
+			"id":"24ad25d33691756d",
+			"type":"text",
+			"text":"And the answer is simple. If this story was known, the identity of the snake in the garden changes. And that, changes EVERYTHING.",
+			"styleAttributes":{},
+			"x":4340,
+			"y":-1025,
+			"width":420,
+			"height":110
+		},
+		{
+			"id":"d5e4c0c94b40234d",
+			"type":"text",
+			"text":"Roman Universalism / Christianity calls this event the Fall of Man, or the Original Sin.\n\nAccording to Christianity, the story goes like this...",
+			"styleAttributes":{},
+			"x":2920,
+			"y":-840,
+			"width":480,
+			"height":120
+		},
+		{
+			"id":"7f916b02b3628163",
+			"type":"text",
+			"text":"Adam & Eve lived in a garden with God. Satan as a snake comes along and tempts Eve to eat fruit from a tree God had specifically told them not to eat from. Eve eats the fruit, committing the first sin against God, leading to the introduction of death, and the fall of mankind into a sinful state.",
+			"styleAttributes":{},
+			"x":3440,
+			"y":-854,
+			"width":500,
+			"height":148
+		},
+		{
+			"id":"5841dcaa487ce654",
+			"type":"text",
+			"text":"We're going to dissect the story and in the process discover that the text simply doesn't say what Roman Universalism / Christianity claims it says at all, and that actually the story is quite different and incredibly more powerful than you've ever been told.",
+			"styleAttributes":{},
+			"x":3980,
+			"y":-850,
+			"width":440,
+			"height":140
+		},
+		{
+			"id":"1ee048b3c88f7543",
+			"type":"text",
+			"text":"The importance of CONTEXT",
+			"styleAttributes":{},
+			"x":5000,
+			"y":80,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2a9f253e93b37635",
+			"type":"text",
+			"text":"Context",
+			"styleAttributes":{},
+			"x":5300,
+			"y":-200,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"a847a12ee3b279e7",
+			"type":"text",
+			"text":"Textualism",
+			"styleAttributes":{},
+			"x":5300,
+			"y":-120,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"ba2e33bb2c6f516b",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{},
-			"x":3060,
-			"y":260,
-			"width":440,
-			"height":140
+			"x":5300,
+			"y":-40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a7d714dcd9c51a5d",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":5480,
+			"y":-260,
+			"width":580,
+			"height":170
 		}
 	],
 	"edges":[
@@ -1716,6 +1996,249 @@
 			"fromNode":"92cd031a499b2e5b",
 			"fromSide":"right",
 			"toNode":"89cf854def0357f1",
+			"toSide":"left"
+		},
+		{
+			"id":"8cefcaeed67f5b4d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"89cf854def0357f1",
+			"fromSide":"right",
+			"toNode":"8490a8672b2d9f1b",
+			"toSide":"left"
+		},
+		{
+			"id":"d75d5017a3c4bb3a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"92cd031a499b2e5b",
+			"fromSide":"right",
+			"toNode":"675c7e5ffeb965e4",
+			"toSide":"left"
+		},
+		{
+			"id":"a326c9e02a8a939f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"675c7e5ffeb965e4",
+			"fromSide":"right",
+			"toNode":"1da5ccb2f38bfc24",
+			"toSide":"left"
+		},
+		{
+			"id":"be56f6274ef2cdd6",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"92cd031a499b2e5b",
+			"fromSide":"right",
+			"toNode":"e5e17a457edd3e51",
+			"toSide":"left"
+		},
+		{
+			"id":"9e7928b5ab353d89",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"92cd031a499b2e5b",
+			"fromSide":"right",
+			"toNode":"0ae69534b0af22c6",
+			"toSide":"left"
+		},
+		{
+			"id":"74fccd132d4d712f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"92cd031a499b2e5b",
+			"fromSide":"right",
+			"toNode":"1f5f112d0a395929",
+			"toSide":"left"
+		},
+		{
+			"id":"4ea2abee30b22a36",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"92cd031a499b2e5b",
+			"fromSide":"right",
+			"toNode":"1ad35c9b3fdad532",
+			"toSide":"left"
+		},
+		{
+			"id":"b87b691e6f227e1c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"92cd031a499b2e5b",
+			"fromSide":"right",
+			"toNode":"b18caef32130dead",
+			"toSide":"left"
+		},
+		{
+			"id":"a5d6ff5a624c8853",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"b18caef32130dead",
+			"fromSide":"right",
+			"toNode":"61ec07795698e0c6",
+			"toSide":"left"
+		},
+		{
+			"id":"6088d45e55993c37",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"ae6333009b69417a",
+			"fromSide":"right",
+			"toNode":"9e0936b74ac4561e",
+			"toSide":"left"
+		},
+		{
+			"id":"0947b9436ac88be0",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"9e0936b74ac4561e",
+			"fromSide":"right",
+			"toNode":"33b468b4de479bd8",
+			"toSide":"left"
+		},
+		{
+			"id":"6eb896530aaf3b30",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"33b468b4de479bd8",
+			"fromSide":"right",
+			"toNode":"b12c188df6fc69af",
+			"toSide":"left"
+		},
+		{
+			"id":"53c7be378fd9437c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"9e0936b74ac4561e",
+			"fromSide":"right",
+			"toNode":"4294cbb57bf2e04f",
+			"toSide":"left"
+		},
+		{
+			"id":"ce0cc4eccdfd5887",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"9e0936b74ac4561e",
+			"fromSide":"right",
+			"toNode":"97aaf9eb43a69a53",
+			"toSide":"left"
+		},
+		{
+			"id":"bdec4a4b2dcf0560",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"97aaf9eb43a69a53",
+			"fromSide":"right",
+			"toNode":"f536f57ca02086e2",
+			"toSide":"left"
+		},
+		{
+			"id":"09dac94f90ecaa48",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"9e0936b74ac4561e",
+			"fromSide":"right",
+			"toNode":"475370a2f4d383c0",
+			"toSide":"left"
+		},
+		{
+			"id":"c574c06a40702791",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"475370a2f4d383c0",
+			"fromSide":"right",
+			"toNode":"9caaaf39c3412254",
+			"toSide":"left"
+		},
+		{
+			"id":"ed52346ce66011f1",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"9caaaf39c3412254",
+			"fromSide":"right",
+			"toNode":"c431d5fdee8fb287",
+			"toSide":"left"
+		},
+		{
+			"id":"fcd9a4004c8f973b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"ae6333009b69417a",
+			"fromSide":"right",
+			"toNode":"5951706ad6bdacd9",
+			"toSide":"left"
+		},
+		{
+			"id":"61f299fbefedaea2",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"5951706ad6bdacd9",
+			"fromSide":"right",
+			"toNode":"6102a58c1f6261d5",
+			"toSide":"left"
+		},
+		{
+			"id":"96df3b625ff04385",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"ae6333009b69417a",
+			"fromSide":"right",
+			"toNode":"793ce669001bd801",
+			"toSide":"left"
+		},
+		{
+			"id":"cb317266008939db",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"793ce669001bd801",
+			"fromSide":"right",
+			"toNode":"390717a22a497a06",
+			"toSide":"left"
+		},
+		{
+			"id":"957a7d532972017d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"793ce669001bd801",
+			"fromSide":"right",
+			"toNode":"76002633ce3990ae",
+			"toSide":"left"
+		},
+		{
+			"id":"ea703cfa7e36c74b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1ee048b3c88f7543",
+			"fromSide":"right",
+			"toNode":"2a9f253e93b37635",
+			"toSide":"left"
+		},
+		{
+			"id":"4ea502ba5a695684",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1ee048b3c88f7543",
+			"fromSide":"right",
+			"toNode":"a847a12ee3b279e7",
+			"toSide":"left"
+		},
+		{
+			"id":"5a6377c8401f4d99",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1ee048b3c88f7543",
+			"fromSide":"right",
+			"toNode":"ba2e33bb2c6f516b",
+			"toSide":"left"
+		},
+		{
+			"id":"542696bc47f6865b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"2a9f253e93b37635",
+			"fromSide":"right",
+			"toNode":"a7d714dcd9c51a5d",
 			"toSide":"left"
 		}
 	],
