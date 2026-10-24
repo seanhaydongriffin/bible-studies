@@ -291,6 +291,80 @@ patch(
   'card links: focus card',
 );
 
+// 7. Read-only canvas: cards can't be dragged, so a drag anywhere (on a card
+//    too) pans the board. Keyboard: arrows pan (Shift = further), + / - zoom
+//    about the centre, 0 returns to the opening view. Ignored while typing.
+patch(
+  'src/app/app.config.ts',
+  'nodesDraggable: true,',
+  'nodesDraggable: false,',
+  'cards not draggable',
+);
+patch(
+  'src/app/views/canvas-view.ts',
+  "      document.addEventListener('mp-resize-start', onResizeStart);",
+  `      const onKey = (event: KeyboardEvent) => {
+        const target = event.target as HTMLElement | null;
+        if (
+          event.ctrlKey || event.metaKey || event.altKey || event.defaultPrevented ||
+          (target && (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName)))
+        ) {
+          return;
+        }
+        const step = event.shiftKey ? 400 : 100;
+        const pans: Record<string, [number, number]> = {
+          ArrowLeft: [step, 0],
+          ArrowRight: [-step, 0],
+          ArrowUp: [0, step],
+          ArrowDown: [0, -step],
+        };
+        if (event.key in pans) {
+          this.nudge(pans[event.key][0], pans[event.key][1], 1);
+        } else if (event.key === '+' || event.key === '=') {
+          this.nudge(0, 0, 1.25);
+        } else if (event.key === '-' || event.key === '_') {
+          this.nudge(0, 0, 0.8);
+        } else if (event.key === '0') {
+          this.fit();
+        } else {
+          return;
+        }
+        event.preventDefault();
+      };
+      document.addEventListener('keydown', onKey);
+      inject(DestroyRef).onDestroy(() => document.removeEventListener('keydown', onKey));
+      document.addEventListener('mp-resize-start', onResizeStart);`,
+  'keyboard pan and zoom',
+);
+patch(
+  'src/app/views/canvas-view.ts',
+  '  private fit(): void {',
+  `  /** Pans by (dx, dy) screen px and zooms by \`factor\` about the view centre. */
+  private nudge(dx: number, dy: number, factor: number): void {
+    const flow = this.flow();
+    const el = this.flowEl()?.nativeElement as HTMLElement | undefined;
+    const pan = el?.querySelector<HTMLElement>('.pan-zoom');
+    const m = pan?.style.transform.match(/translate3d\\((-?[\\d.]+)px, (-?[\\d.]+)px.*scale\\(([\\d.]+)\\)/);
+    if (!flow || !el || !pan || !m) {
+      return;
+    }
+    // ng-draw-flow draws its camera at translate = camera + view centre.
+    const current = Number(m[3]);
+    const zoom = Math.min(MAX_ZOOM, Math.max(MIN_ZOOM, current * factor));
+    const x = (Number(m[1]) - el.clientWidth / 2) * (zoom / current) + dx;
+    const y = (Number(m[2]) - el.clientHeight / 2) * (zoom / current) + dy;
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      pan.style.transition = 'transform 150ms ease-out';
+      clearTimeout(this.panTimer);
+      this.panTimer = setTimeout(() => (pan.style.transition = ''), 200);
+    }
+    flow.setPosition({ x, y, zoom });
+  }
+
+  private fit(): void {`,
+  'keyboard nudge',
+);
+
 // The flash itself (an accent ring that fades out).
 const FLASH_CSS = `
 /* ---- card link flash (patch.mjs) ---- */

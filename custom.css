@@ -66,3 +66,20 @@ ng-draw-flow.canvas {
   --font-text-size: 16px;
   font-size: 16px;
 }
+
+/* Read-only canvas: pressing a card "selects" it in the canvas library, which
+   recolours its arrows orange, and arrows highlight on hover/click. Keep every
+   arrow its normal colour and let arrows ignore the mouse. (!important: the
+   library's own styles outrank this selector.) */
+ng-draw-flow.canvas {
+  --df-connection-selected-node-output-color: var(--df-connection-color) !important;
+  --df-connection-selected-node-input-color: var(--df-connection-color) !important;
+  --df-connection-selected-node-output-hover-color: var(--df-connection-color) !important;
+  --df-connection-selected-node-input-hover-color: var(--df-connection-color) !important;
+  --df-connection-color-hover: var(--df-connection-color) !important;
+  --df-connection-color-active: var(--df-connection-color) !important;
+}
+
+ng-draw-flow.canvas .selectable-area {
+  pointer-events: none !important;
+}
