@@ -44,7 +44,7 @@
 		{
 			"id":"f9b563607dc4474c",
 			"type":"text",
-			"text":"**How Belief works**",
+			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#b606d0cb7dd1f3ce|How Belief works]]",
 			"styleAttributes":{
 				"shape":"pill",
 				"textAlign":null,
@@ -74,7 +74,7 @@
 		{
 			"id":"84ac60b9ffa06b94",
 			"type":"text",
-			"text":"**The Two Gardens**",
+			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#005339d1ff043eeb|The Two Gardens]]",
 			"styleAttributes":{
 				"shape":"pill",
 				"textAlign":null,
@@ -104,7 +104,7 @@
 		{
 			"id":"8410a815b8d2c752",
 			"type":"text",
-			"text":"**The importance of Context**",
+			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#1ee048b3c88f7543|The importance of Context]]",
 			"styleAttributes":{
 				"shape":"pill",
 				"textAlign":null,
@@ -134,7 +134,7 @@
 		{
 			"id":"54977b520bdc04fe",
 			"type":"text",
-			"text":"**The fruit through the ancient world**",
+			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#516ba3b56460c7ed|The fruit through the ancient world]]",
 			"styleAttributes":{
 				"shape":"pill",
 				"textAlign":null,
@@ -149,7 +149,7 @@
 		{
 			"id":"60849814d7453587",
 			"type":"text",
-			"text":"**The Script**",
+			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#dabf1961c6584799|The Script]]",
 			"styleAttributes":{
 				"shape":"pill",
 				"textAlign":null,
@@ -164,7 +164,7 @@
 		{
 			"id":"138eb29309aedbf0",
 			"type":"text",
-			"text":"**The introduction of Yahweh**",
+			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#ec0a9a9ab036399e|The introduction of Yahweh]]",
 			"styleAttributes":{
 				"shape":"pill",
 				"textAlign":null,
@@ -2702,8 +2702,8 @@
 			"type":"text",
 			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#b606d0cb7dd1f3ce|Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas (Text node)]]",
 			"styleAttributes":{},
-			"x":120,
-			"y":-720,
+			"x":80,
+			"y":-730,
 			"width":360,
 			"height":180
 		}
