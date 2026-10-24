@@ -180,7 +180,136 @@ patch(
   'revalidate content on every load',
 );
 
-// 6. Append the repo's custom CSS to the global stylesheet.
+// 6. Card links: [[Canvas.canvas#card-id]] (Advanced Canvas "Copy wikilink to
+//    node") glides to that card and flashes it, as Obsidian zooms to it.
+//    Links inside cards route in-app instead of reloading the page, and the
+//    #card-id is handled on every navigation, so Back/Forward step between
+//    cards and a shared URL ending in #card-id opens the canvas on that card.
+patch(
+  'src/app/views/canvas-view.ts',
+  "import { isPlatformBrowser } from '@angular/common';",
+  "import { isPlatformBrowser } from '@angular/common';\nimport { NavigationEnd, Router } from '@angular/router';",
+  'card links: import router',
+);
+patch(
+  'src/app/views/canvas-view.ts',
+  '  protected readonly isBrowser = isPlatformBrowser(inject(PLATFORM_ID));',
+  `  protected readonly isBrowser = isPlatformBrowser(inject(PLATFORM_ID));
+  private readonly router = inject(Router);
+  private panTimer?: ReturnType<typeof setTimeout>;`,
+  'card links: router field',
+);
+patch(
+  'src/app/views/canvas-view.ts',
+  "      document.addEventListener('mp-resize-start', onResizeStart);",
+  `      // A link inside a card: route in-app (no page reload). The pointerdown
+      // position tells a click from a drag that happened to end on a link.
+      let linkDownX = 0;
+      let linkDownY = 0;
+      const onLinkDown = (event: PointerEvent) => {
+        linkDownX = event.clientX;
+        linkDownY = event.clientY;
+      };
+      const onLinkClick = (event: MouseEvent) => {
+        const a = (event.target as Element).closest<HTMLAnchorElement>('ng-draw-flow a.wikilink');
+        if (!a || event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) {
+          return;
+        }
+        event.preventDefault();
+        if (a.classList.contains('broken') || Math.hypot(event.clientX - linkDownX, event.clientY - linkDownY) > 4) {
+          return;
+        }
+        const url = new URL(a.getAttribute('href') ?? '', document.baseURI);
+        const base = new URL(document.baseURI).pathname;
+        void this.router.navigateByUrl('/' + url.pathname.slice(base.length) + url.hash);
+      };
+      document.addEventListener('pointerdown', onLinkDown, true);
+      document.addEventListener('click', onLinkClick, true);
+      // Every navigation (link, Back, Forward): #card-id glides to the card;
+      // no fragment returns to the canvas's opening view.
+      const navigations = this.router.events.subscribe((event) => {
+        if (event instanceof NavigationEnd) {
+          const id = this.router.parseUrl(event.urlAfterRedirects).fragment;
+          if (!id || !this.focusCard(id, true)) {
+            this.fit();
+          }
+        }
+      });
+      inject(DestroyRef).onDestroy(() => {
+        navigations.unsubscribe();
+        clearTimeout(this.panTimer);
+        document.removeEventListener('pointerdown', onLinkDown, true);
+        document.removeEventListener('click', onLinkClick, true);
+      });
+      document.addEventListener('mp-resize-start', onResizeStart);`,
+  'card links: click + navigation handling',
+);
+patch(
+  'src/app/views/canvas-view.ts',
+  '    const bounds = this.canvas.value()?.bounds;',
+  `    const bounds = this.canvas.value()?.bounds;
+    // Opened at #card-id: start on that card instead of the usual view.
+    if (location.hash.length > 1 && this.focusCard(decodeURIComponent(location.hash.slice(1)), false)) {
+      return;
+    }`,
+  'card links: open on #card-id',
+);
+patch(
+  'src/app/views/canvas-view.ts',
+  '  private fit(): void {',
+  `  /** Centres card \`id\` at the readable zoom (smaller if the card would not
+   *  fit) and flashes it. False when this canvas has no such card yet. */
+  private focusCard(id: string, animate: boolean): boolean {
+    const flow = this.flow();
+    const el = this.flowEl()?.nativeElement as HTMLElement | undefined;
+    const node = this.ctrl.value.nodes.find((n) => n.id === id);
+    if (!flow || !el || !node || !('position' in node) || el.clientWidth <= 0 || el.clientHeight <= 0) {
+      return false;
+    }
+    const w = node.data['width'] as number;
+    const h = node.data['height'] as number;
+    const zoom = Math.min(${READABLE_ZOOM}, (el.clientWidth / w) * FIT_PADDING, (el.clientHeight / h) * FIT_PADDING);
+    // ng-draw-flow moves the camera instantly; a short CSS transition on the
+    // pan layer makes it a glide (skipped for reduced-motion users).
+    const pan = el.querySelector<HTMLElement>('.pan-zoom');
+    if (animate && pan && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      pan.style.transition = 'transform 450ms ease-in-out';
+      clearTimeout(this.panTimer);
+      this.panTimer = setTimeout(() => (pan.style.transition = ''), 500);
+    }
+    flow.setPosition({ x: -node.position.x * zoom, y: -node.position.y * zoom, zoom });
+    const card = el.querySelector<HTMLElement>(\`[data-draw-flow-node][data-node-id="\${CSS.escape(id)}"]\`);
+    if (card) {
+      card.classList.remove('mp-card-flash');
+      void card.offsetWidth; // restart the animation when the same card is linked again
+      card.classList.add('mp-card-flash');
+    }
+    return true;
+  }
+
+  private fit(): void {`,
+  'card links: focus card',
+);
+
+// The flash itself (an accent ring that fades out).
+const FLASH_CSS = `
+/* ---- card link flash (patch.mjs) ---- */
+@keyframes mp-card-flash {
+  0%, 55% { box-shadow: 0 0 0 4px var(--interactive-accent); }
+  100% { box-shadow: 0 0 0 4px transparent; }
+}
+ng-draw-flow.canvas [data-draw-flow-node].mp-card-flash {
+  border-radius: 0.5rem;
+  animation: mp-card-flash 1.8s ease-out;
+}
+`;
+{
+  const styles = join(pkgDir, 'src/styles.scss');
+  writeFileSync(styles, readFileSync(styles, 'utf8') + FLASH_CSS);
+  console.log('patched: card link flash css');
+}
+
+// 7. Append the repo's custom CSS to the global stylesheet.
 if (customCss) {
   const css = readFileSync(customCss, 'utf8');
   const styles = join(pkgDir, 'src/styles.scss');
