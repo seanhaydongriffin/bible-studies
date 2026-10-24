@@ -221,7 +221,15 @@ patch(
         }
         const url = new URL(a.getAttribute('href') ?? '', document.baseURI);
         const base = new URL(document.baseURI).pathname;
-        void this.router.navigateByUrl('/' + url.pathname.slice(base.length) + url.hash);
+        const target = '/' + url.pathname.slice(base.length) + url.hash;
+        // Already at this address (the link was followed before and the view
+        // moved since, or the page was reopened at it): the router ignores a
+        // same-URL navigation, so go to the card directly.
+        if (target === this.router.url && url.hash.length > 1) {
+          this.focusCard(decodeURIComponent(url.hash.slice(1)), true);
+        } else {
+          void this.router.navigateByUrl(target);
+        }
       };
       document.addEventListener('pointerdown', onLinkDown, true);
       document.addEventListener('click', onLinkClick, true);
