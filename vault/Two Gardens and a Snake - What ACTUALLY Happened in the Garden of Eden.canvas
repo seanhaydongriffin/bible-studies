@@ -2700,7 +2700,7 @@
 		{
 			"id":"701e3436e5c5e395",
 			"type":"text",
-			"text":"[Click here to jump to the destination card](#target-card-one)",
+			"text":"<a href=\"javascript:void(0)\" onclick=\"document.getElementById('target-card-one').scrollIntoView({behavior: 'smooth'})\">Click here to jump to the destination card</a>",
 			"styleAttributes":{},
 			"x":-80,
 			"y":-610,
