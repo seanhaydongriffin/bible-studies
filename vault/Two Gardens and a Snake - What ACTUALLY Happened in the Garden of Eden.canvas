@@ -2698,24 +2698,14 @@
 			"height":70
 		},
 		{
-			"id":"701e3436e5c5e395",
+			"id":"caa8e8085f2d444c",
 			"type":"text",
-			"text":"<a href=\"javascript:void(0)\" onclick=\"document.getElementById('target-card-one').scrollIntoView({behavior: 'smooth'})\">Click here to jump to the destination card</a>",
+			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#b606d0cb7dd1f3ce|Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas (Text node)]]",
 			"styleAttributes":{},
-			"x":-80,
-			"y":-610,
-			"width":420,
+			"x":120,
+			"y":-720,
+			"width":360,
 			"height":180
-		},
-		{
-			"id":"53ce8f97ad4d6311",
-			"type":"text",
-			"text":"<span id=\"target-card-one\"></span> ### Target Section Title This is the rest of my text inside my raw canvas card.",
-			"styleAttributes":{},
-			"x":1510,
-			"y":-1360,
-			"width":500,
-			"height":240
 		}
 	],
 	"edges":[
