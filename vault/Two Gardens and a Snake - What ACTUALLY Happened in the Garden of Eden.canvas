@@ -1178,12 +1178,172 @@
 			"height":60
 		},
 		{
+			"id":"241d5c0a3e434c40",
+			"type":"text",
+			"text":"Pursuit of understanding",
+			"styleAttributes":{},
+			"x":6220,
+			"y":-370,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"83c2888543ccf7f0",
+			"type":"text",
+			"text":"Pursuit of legalism",
+			"styleAttributes":{},
+			"x":6220,
+			"y":-180,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"fbb34735a60a9d8e",
+			"type":"text",
+			"text":"\"You **search the Scriptures** because you think that **in them** you have eternal life; and it is they\nthat bear witness about me, yet you refuse to come to me that you may have life.\" - Yeshua",
+			"styleAttributes":{},
+			"x":6220,
+			"y":-60,
+			"width":380,
+			"height":120
+		},
+		{
+			"id":"5b4d06333513454a",
+			"type":"text",
+			"text":"This is what the religious leaders of his day were doing. Today Christians, are doing precisely what Yeshua warned the Pharisees against. Beware of Bible teachers that are \n**text**ualists not **context**ualists",
+			"styleAttributes":{},
+			"x":6220,
+			"y":80,
+			"width":380,
+			"height":140
+		},
+		{
+			"id":"44ac6bcd9198f136",
+			"type":"text",
+			"text":"John 5",
+			"styleAttributes":{},
+			"x":6640,
+			"y":-30,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"8737d1917441d4bf",
+			"type":"text",
+			"text":"Additionally, to look at not just the Bible alone but all possible ancient clues that could provide context to understanding the Biblical texts.",
+			"styleAttributes":{},
+			"x":6220,
+			"y":285,
+			"width":380,
+			"height":100
+		},
+		{
+			"id":"f806168e700e9048",
+			"type":"text",
+			"text":"When I approach the text, I seek to peel away the Roman Universalist metaphors and read the text plainly as it is written as much as possible. This can be hard for a Christian to do, because these metaphors are so deeply ingrained in the way we understand the text today.",
+			"styleAttributes":{},
+			"x":6220,
+			"y":455,
+			"width":420,
+			"height":170
+		},
+		{
+			"id":"e0f43d346b825fe4",
+			"type":"text",
+			"text":"But adding metaphor is adding potential for error. Removal of that added metaphor necessarily reduces the potential for error. That is what i seek to do, reduce error by returning to a plain reading of the text.",
+			"styleAttributes":{},
+			"x":6690,
+			"y":468,
+			"width":360,
+			"height":145
+		},
+		{
+			"id":"a7d714dcd9c51a5d",
+			"type":"text",
+			"text":"In semiotics, linguistics, sociology, and anthropology, **context** refers to those objects or entities which **surround** a focal event, in these disciplines typically a communicative event, of some kind. **Context is \"a frame that surrounds the event and provides resources for its appropriate interpretation\"**. It is thus a relative concept, only definable with respect to some focal event within a frame, not independently of that frame. From Wikipedia",
+			"styleAttributes":{},
+			"x":5480,
+			"y":-425,
+			"width":700,
+			"height":170
+		},
+		{
+			"id":"9470577bce2ea6ce",
+			"type":"text",
+			"text":"**Textualism** is a formalist theory in which the interpretation of the law is primarily based on the ordinary **meaning of the legal text**, where **no consideration is given** to non-textual sources, such as **intention** of the law when passed, the problem it was intended to remedy, or significant questions regarding the justice or rectitude of the law. From Wikipedia",
+			"styleAttributes":{},
+			"x":5480,
+			"y":-220,
+			"width":700,
+			"height":140
+		},
+		{
+			"id":"2144f34f0443837c",
+			"type":"text",
+			"text":"Those intent on deception become rigorous textualists because it provides **the easiest and most convincing method of deception**. If they can convince you a word means something specific, they will argue you must adhere to that definition, and most people just agree. But Yeshua directly address this practice.",
+			"styleAttributes":{},
+			"x":5720,
+			"y":0,
+			"width":460,
+			"height":160
+		},
+		{
+			"id":"43f17712e68cf038",
+			"type":"text",
+			"text":"What I am trying to do is pull back from a legalistic reading of the text to see the big picture by re-examining everything we've been taught by Rome and reading the text without 2000 years of added metaphor.",
+			"styleAttributes":{},
+			"x":5720,
+			"y":260,
+			"width":460,
+			"height":150
+		},
+		{
+			"id":"31c415e91095b5f1",
+			"type":"text",
+			"text":"I argue that what Rome has done is reframe the entire Biblical story and called their version of events, Roman Universalism, better known today as Christianity. Protestantism is no different. They agree on 99% of all foundational doctrines.",
+			"styleAttributes":{},
+			"x":5300,
+			"y":260,
+			"width":380,
+			"height":150
+		},
+		{
+			"id":"a338150e7020c04c",
+			"type":"text",
+			"text":"Yeshua used plenty of metaphor in the text, and that's fine, but it's not fine for Roman Universalism / Christianity to start adding their own metaphor to the text to reframe and often completely alter the meaning of important passages, often to their complete opposite.",
+			"styleAttributes":{},
+			"x":5660,
+			"y":480,
+			"width":520,
+			"height":120
+		},
+		{
+			"id":"eea14368f428c5c3",
+			"type":"text",
+			"text":"The importance of removing metaphor",
+			"styleAttributes":{},
+			"x":5300,
+			"y":510,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"a5f42ac53b788bc9",
+			"type":"text",
+			"text":"So let's explore some context...",
+			"styleAttributes":{},
+			"x":5300,
+			"y":660,
+			"width":280,
+			"height":60
+		},
+		{
 			"id":"2a9f253e93b37635",
 			"type":"text",
 			"text":"Context",
 			"styleAttributes":{},
 			"x":5300,
-			"y":-200,
+			"y":-370,
 			"width":120,
 			"height":60
 		},
@@ -1193,29 +1353,29 @@
 			"text":"Textualism",
 			"styleAttributes":{},
 			"x":5300,
-			"y":-120,
+			"y":-180,
 			"width":120,
 			"height":60
 		},
 		{
 			"id":"ba2e33bb2c6f516b",
 			"type":"text",
-			"text":"",
+			"text":"Textualism distorts the original meaning by sticking to **currently** known definitions of the **individual** **words** used we must seek out the **original context** if we are to **faithfully understand** what the author is actually saying.",
 			"styleAttributes":{},
 			"x":5300,
-			"y":-40,
-			"width":260,
-			"height":60
+			"y":0,
+			"width":380,
+			"height":160
 		},
 		{
-			"id":"a7d714dcd9c51a5d",
+			"id":"516ba3b56460c7ed",
 			"type":"text",
-			"text":"",
+			"text":"The Tree of Life through the ancient world",
 			"styleAttributes":{},
-			"x":5480,
-			"y":-260,
-			"width":580,
-			"height":170
+			"x":7440,
+			"y":80,
+			"width":240,
+			"height":80
 		}
 	],
 	"edges":[
@@ -2239,6 +2399,141 @@
 			"fromNode":"2a9f253e93b37635",
 			"fromSide":"right",
 			"toNode":"a7d714dcd9c51a5d",
+			"toSide":"left"
+		},
+		{
+			"id":"161558c03c96cf4c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a7d714dcd9c51a5d",
+			"fromSide":"right",
+			"toNode":"241d5c0a3e434c40",
+			"toSide":"left"
+		},
+		{
+			"id":"554b67b4c4aeac9f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a847a12ee3b279e7",
+			"fromSide":"right",
+			"toNode":"9470577bce2ea6ce",
+			"toSide":"left"
+		},
+		{
+			"id":"5412fc9b3b4be29c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"9470577bce2ea6ce",
+			"fromSide":"right",
+			"toNode":"83c2888543ccf7f0",
+			"toSide":"left"
+		},
+		{
+			"id":"86d9948aa696bb14",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"ba2e33bb2c6f516b",
+			"fromSide":"right",
+			"toNode":"2144f34f0443837c",
+			"toSide":"left"
+		},
+		{
+			"id":"6528e220a6f041d6",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"2144f34f0443837c",
+			"fromSide":"right",
+			"toNode":"fbb34735a60a9d8e",
+			"toSide":"left"
+		},
+		{
+			"id":"2328f32cb758c413",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"fbb34735a60a9d8e",
+			"fromSide":"right",
+			"toNode":"44ac6bcd9198f136",
+			"toSide":"left"
+		},
+		{
+			"id":"42b75f59f587d9de",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"2144f34f0443837c",
+			"fromSide":"right",
+			"toNode":"5b4d06333513454a",
+			"toSide":"left"
+		},
+		{
+			"id":"d85e7d055a46bb14",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1ee048b3c88f7543",
+			"fromSide":"right",
+			"toNode":"31c415e91095b5f1",
+			"toSide":"left"
+		},
+		{
+			"id":"0f29efa2c79ac896",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"31c415e91095b5f1",
+			"fromSide":"right",
+			"toNode":"43f17712e68cf038",
+			"toSide":"left"
+		},
+		{
+			"id":"e6c0046a7580670b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"43f17712e68cf038",
+			"fromSide":"right",
+			"toNode":"8737d1917441d4bf",
+			"toSide":"left"
+		},
+		{
+			"id":"f19e7be4a451502c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1ee048b3c88f7543",
+			"fromSide":"right",
+			"toNode":"eea14368f428c5c3",
+			"toSide":"left"
+		},
+		{
+			"id":"65ed6e9519a63c39",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"eea14368f428c5c3",
+			"fromSide":"right",
+			"toNode":"a338150e7020c04c",
+			"toSide":"left"
+		},
+		{
+			"id":"0d5d19e84f685d9c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a338150e7020c04c",
+			"fromSide":"right",
+			"toNode":"f806168e700e9048",
+			"toSide":"left"
+		},
+		{
+			"id":"7a89b4f7ef8fb634",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"f806168e700e9048",
+			"fromSide":"right",
+			"toNode":"e0f43d346b825fe4",
+			"toSide":"left"
+		},
+		{
+			"id":"e98f2e403088dacd",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1ee048b3c88f7543",
+			"fromSide":"right",
+			"toNode":"a5f42ac53b788bc9",
 			"toSide":"left"
 		}
 	],
