@@ -2696,6 +2696,26 @@
 			"y":-109,
 			"width":420,
 			"height":70
+		},
+		{
+			"id":"701e3436e5c5e395",
+			"type":"text",
+			"text":"[Click here to jump to the destination card](#target-card-one)",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-610,
+			"width":420,
+			"height":180
+		},
+		{
+			"id":"53ce8f97ad4d6311",
+			"type":"text",
+			"text":"<span id=\"target-card-one\"></span> ### Target Section Title This is the rest of my text inside my raw canvas card.",
+			"styleAttributes":{},
+			"x":1510,
+			"y":-1360,
+			"width":500,
+			"height":240
 		}
 	],
 	"edges":[
