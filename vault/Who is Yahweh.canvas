@@ -4,13 +4,12 @@
 			"id":"487c105b27d937a7",
 			"type":"text",
 			"text":"Who is Yahweh?",
-			"styleAttributes":{},
-			"x":-600,
+			"styleAttributes":{"textAlign":"center"},
+			"x":-760,
 			"y":-120,
-			"width":160,
+			"width":320,
 			"height":60
 		},
-		{"id":"7e14b626b3c027e9","type":"link","url":"https://youtu.be/JIMAqxGPR8Q?si=_jeTki5CxuuHT8Yb","x":-840,"y":-10,"width":400,"height":120},
 		{
 			"id":"f950fa7cf3ed7a1d",
 			"type":"text",
@@ -2420,6 +2419,18 @@
 			"y":8480,
 			"width":260,
 			"height":60
+		},
+		{"id":"7e14b626b3c027e9","type":"link","url":"https://youtu.be/JIMAqxGPR8Q?si=_jeTki5CxuuHT8Yb","x":-840,"y":100,"width":400,"height":120},
+		{
+			"id":"4fa96175f3023165",
+			"type":"text",
+			"text":"**Source:** Biblical canon\n**Lens:** Independent (Israel Anderson)",
+			"styleAttributes":{"border":"invisible","shape":"pill","textAlign":"center"},
+			"x":-760,
+			"y":-40,
+			"width":320,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[

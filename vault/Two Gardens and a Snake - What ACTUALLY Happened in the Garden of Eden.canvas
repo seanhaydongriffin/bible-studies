@@ -5,9 +5,9 @@
 			"type":"text",
 			"text":"**Two Gardens and a Snake**",
 			"styleAttributes":{},
-			"x":-120,
+			"x":-200,
 			"y":80,
-			"width":240,
+			"width":320,
 			"height":60,
 			"color":"1"
 		},
@@ -2698,16 +2698,6 @@
 			"height":70
 		},
 		{
-			"id":"caa8e8085f2d444c",
-			"type":"text",
-			"text":"[[Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas#b606d0cb7dd1f3ce|Two Gardens and a Snake - What ACTUALLY Happened in the Garden of Eden.canvas (Text node)]]",
-			"styleAttributes":{},
-			"x":80,
-			"y":-730,
-			"width":360,
-			"height":180
-		},
-		{
 			"id":"7335f5aaa31fa07e",
 			"type":"text",
 			"text":"What really happened in the garden?",
@@ -3326,6 +3316,17 @@
 			"y":580,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"186b22ff404dc51c",
+			"type":"text",
+			"text":"**Source:** Biblical canon\n**Lens:** Independent (Israel Anderson)",
+			"styleAttributes":{"border":"invisible","shape":"pill","textAlign":"center"},
+			"x":-200,
+			"y":170,
+			"width":320,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
